@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.exe
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.deps.json
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.runtimeconfig.json
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.dll
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\ref\SoftUniLecturesWeek1.dll
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\bin\Debug\net5.0\SoftUniLecturesWeek1.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.dll
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\ref\SoftUniLecturesWeek1.dll
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\SoftUniLecturesWeek1\obj\Debug\net5.0\SoftUniLecturesWeek1.genruntimeconfig.cache

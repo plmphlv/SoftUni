@@ -1,0 +1,16 @@
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\bin\Debug\net5.0\HelloCSharp.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\refint\HelloCSharp.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\HelloCSharp.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\SoftUniLecturesWeek1\obj\Debug\net5.0\ref\HelloCSharp.dll
