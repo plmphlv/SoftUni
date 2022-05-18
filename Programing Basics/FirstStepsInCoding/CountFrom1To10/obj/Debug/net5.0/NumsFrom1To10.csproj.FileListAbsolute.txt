@@ -1,0 +1,16 @@
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\bin\Debug\net5.0\NumsFrom1To10.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\refint\NumsFrom1To10.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\NumsFrom1To10.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\CountFrom1To10\obj\Debug\net5.0\ref\NumsFrom1To10.dll

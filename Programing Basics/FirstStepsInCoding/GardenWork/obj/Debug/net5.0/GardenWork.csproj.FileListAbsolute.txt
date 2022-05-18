@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.exe
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.deps.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\ref\GardenWork.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\bin\Debug\net5.0\GardenWork.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\ref\GardenWork.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\GardenWork\obj\Debug\net5.0\GardenWork.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.exe
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.deps.json
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.runtimeconfig.json
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.dll
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\ref\CountFrom1To10.dll
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\bin\Debug\net5.0\CountFrom1To10.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.dll
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\ref\CountFrom1To10.dll
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\HelloCSharp\CountFrom1To10\obj\Debug\net5.0\CountFrom1To10.csproj.AssemblyReference.cache
