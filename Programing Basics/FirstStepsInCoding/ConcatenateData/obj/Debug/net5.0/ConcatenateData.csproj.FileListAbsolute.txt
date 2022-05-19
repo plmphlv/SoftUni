@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.exe
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.deps.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ref\ConcatenateData.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\bin\Debug\net5.0\ConcatenateData.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ref\ConcatenateData.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ConcatenateData\obj\Debug\net5.0\ConcatenateData.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\bin\Debug\net5.0\ConcatenateData.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\refint\ConcatenateData.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ConcatenateData.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ConcatenateData\obj\Debug\net5.0\ref\ConcatenateData.dll

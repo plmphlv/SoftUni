@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.exe
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.deps.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ref\ArchitectProjects.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\bin\Debug\net5.0\ArchitectProjects.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ref\ArchitectProjects.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\ArchitectProjects\obj\Debug\net5.0\ArchitectProjects.genruntimeconfig.cache

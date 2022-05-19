@@ -1,0 +1,16 @@
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\bin\Debug\net5.0\ProjectsCreation.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\refint\ProjectsCreation.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ProjectsCreation.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\ArchitectProjects\obj\Debug\net5.0\ref\ProjectsCreation.dll
