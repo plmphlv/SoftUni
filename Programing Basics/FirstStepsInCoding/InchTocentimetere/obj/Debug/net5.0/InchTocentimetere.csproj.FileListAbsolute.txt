@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.exe
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.deps.json
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.runtimeconfig.json
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.dll
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\ref\InchTocentimetere.dll
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.dll
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\ref\InchTocentimetere.dll
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.pdb
+C:\Users\Plamen\source\repos\HelloCSharp\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\bin\Debug\net5.0\InchTocentimetere.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\refint\InchTocentimetere.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\InchTocentimetere.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\InchTocentimetere\obj\Debug\net5.0\ref\InchTocentimetere.dll

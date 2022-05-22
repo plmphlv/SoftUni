@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.exe
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.deps.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\ref\HelloMonica.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\bin\Debug\net5.0\HelloMonica.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\ref\HelloMonica.dll
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.pdb
+C:\Users\Plamen\source\repos\SoftUniLecturesWeek1\HelloMonica\obj\Debug\net5.0\HelloMonica.genruntimeconfig.cache

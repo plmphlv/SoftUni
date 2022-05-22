@@ -1,0 +1,16 @@
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\bin\Debug\net5.0\GreetingByName.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\refint\GreetingByName.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\GreetingByName.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 1 - Introduction to programing\Exercises\FirstStepsInCoding\HelloMonica\obj\Debug\net5.0\ref\GreetingByName.dll
