@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.exe
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.deps.json
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\ref\USDToBGNConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\bin\Debug\net5.0\USDToBGNConvertor.pdb
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\ref\USDToBGNConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.pdb
+C:\Users\Plamen\source\repos\SoftUniDay2\USDToBGNConvertor\obj\Debug\net5.0\USDToBGNConvertor.genruntimeconfig.cache
