@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\ref\SchoolMaretials.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\bin\Debug\net5.0\SchoolMaretials.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\ref\SchoolMaretials.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\SchoolMaretials\obj\Debug\net5.0\SchoolMaretials.genruntimeconfig.cache

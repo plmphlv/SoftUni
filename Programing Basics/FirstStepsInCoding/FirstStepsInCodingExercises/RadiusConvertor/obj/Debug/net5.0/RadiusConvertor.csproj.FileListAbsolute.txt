@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.exe
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.deps.json
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\ref\RadiusConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.pdb
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\ref\RadiusConvertor.dll
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.pdb
+C:\Users\Plamen\source\repos\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\ref\RadiusConvertor.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\bin\Debug\net5.0\RadiusConvertor.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\ref\RadiusConvertor.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\RadiusConvertor\obj\Debug\net5.0\RadiusConvertor.genruntimeconfig.cache
