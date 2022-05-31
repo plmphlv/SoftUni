@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\ref\PaintingTheHouse.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\bin\Debug\net5.0\PaintingTheHouse.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\ref\PaintingTheHouse.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniDay2\PaintingTheHouse\obj\Debug\net5.0\PaintingTheHouse.genruntimeconfig.cache
