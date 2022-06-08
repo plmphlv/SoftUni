@@ -1,0 +1,48 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\ref\WorkShop.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\ref\WorkShop.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\ref\WorkShop.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\ref\WorkShop.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.genruntimeconfig.cache
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.exe
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.deps.json
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.json
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.runtimeconfig.dev.json
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.dll
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\bin\Debug\net5.0\WorkShop.pdb
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.AssemblyReference.cache
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfoInputs.cache
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.AssemblyInfo.cs
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.csproj.CoreCompileInputs.cache
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.dll
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\refint\WorkShop.dll
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.pdb
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\WorkShop.genruntimeconfig.cache
+D:\Desktop\Developer stuff\SoftUni\1. SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\WorkShop\obj\Debug\net5.0\ref\WorkShop.dll

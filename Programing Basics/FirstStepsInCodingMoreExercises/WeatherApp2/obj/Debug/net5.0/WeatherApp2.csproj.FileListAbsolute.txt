@@ -1,0 +1,15 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\ref\WeatherApp2.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\bin\Debug\net5.0\WeatherApp2.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\ref\WeatherApp2.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\WeatherApp2\obj\Debug\net5.0\WeatherApp2.genruntimeconfig.cache
