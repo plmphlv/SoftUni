@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\ref\TrapeziodArea.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\bin\Debug\net5.0\TrapeziodArea.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\ref\TrapeziodArea.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\TrapeziodArea\obj\Debug\net5.0\TrapeziodArea.genruntimeconfig.cache

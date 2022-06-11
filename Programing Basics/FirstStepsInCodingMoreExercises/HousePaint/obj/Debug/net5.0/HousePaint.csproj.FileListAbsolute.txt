@@ -1,0 +1,32 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\ref\HousePaint.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\ref\HousePaint.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUbiWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\bin\Debug\net5.0\HousePaint.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\refint\HousePaint.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\HousePaint.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 1 - Introduction to programing\Exercises\SoftUniWeek1Bonus\HousePaint\obj\Debug\net5.0\ref\HousePaint.dll
