@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\ref\CelsiusToFahrenheit.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\bin\Debug\net5.0\CelsiusToFahrenheit.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\ref\CelsiusToFahrenheit.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUbiWeek1Bonus\CelsiusToFahrenheit\obj\Debug\net5.0\CelsiusToFahrenheit.genruntimeconfig.cache
