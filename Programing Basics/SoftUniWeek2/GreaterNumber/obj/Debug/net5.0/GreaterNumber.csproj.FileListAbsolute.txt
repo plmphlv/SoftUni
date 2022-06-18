@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\ref\GreaterNumber.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\bin\Debug\net5.0\GreaterNumber.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\ref\GreaterNumber.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\GreaterNumber\obj\Debug\net5.0\GreaterNumber.genruntimeconfig.cache
