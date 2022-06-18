@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\ref\OddOrEven.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\bin\Debug\net5.0\OddOrEven.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\ref\OddOrEven.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\OddOrEven\obj\Debug\net5.0\OddOrEven.genruntimeconfig.cache
