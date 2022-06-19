@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ref\ExcelentMarks.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\bin\Debug\net5.0\ExcelentMarks.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ref\ExcelentMarks.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\ExcelentMarks\obj\Debug\net5.0\ExcelentMarks.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\ref\FigureAreas.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\bin\Debug\net5.0\FigureAreas.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\ref\FigureAreas.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\FigureAreas\obj\Debug\net5.0\FigureAreas.genruntimeconfig.cache
