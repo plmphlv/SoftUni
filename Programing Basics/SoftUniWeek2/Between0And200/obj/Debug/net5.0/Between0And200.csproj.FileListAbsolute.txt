@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\ref\Between0And200.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\bin\Debug\net5.0\Between0And200.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\ref\Between0And200.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2\Between0And200\obj\Debug\net5.0\Between0And200.genruntimeconfig.cache
