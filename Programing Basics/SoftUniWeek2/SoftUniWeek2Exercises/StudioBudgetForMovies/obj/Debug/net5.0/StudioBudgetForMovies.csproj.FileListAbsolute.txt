@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\ref\StudioBudgetForMovies.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\bin\Debug\net5.0\StudioBudgetForMovies.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\ref\StudioBudgetForMovies.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\StudioBudgetForMovies\obj\Debug\net5.0\StudioBudgetForMovies.genruntimeconfig.cache

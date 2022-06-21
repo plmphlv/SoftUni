@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\ref\SwimingWorldRecord.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\bin\Debug\net5.0\SwimingWorldRecord.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\ref\SwimingWorldRecord.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\SwimingWorldRecord\obj\Debug\net5.0\SwimingWorldRecord.genruntimeconfig.cache

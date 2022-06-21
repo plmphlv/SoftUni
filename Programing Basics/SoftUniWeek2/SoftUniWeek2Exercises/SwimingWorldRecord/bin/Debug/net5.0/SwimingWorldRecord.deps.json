@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SwimingWorldRecord/1.0.0": {
+        "runtime": {
+          "SwimingWorldRecord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwimingWorldRecord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
