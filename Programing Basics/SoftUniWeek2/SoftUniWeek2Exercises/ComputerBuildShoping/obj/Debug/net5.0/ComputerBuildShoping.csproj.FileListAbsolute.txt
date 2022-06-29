@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ref\ComputerBuildShoping.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\bin\Debug\net5.0\ComputerBuildShoping.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ref\ComputerBuildShoping.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ComputerBuildShoping\obj\Debug\net5.0\ComputerBuildShoping.genruntimeconfig.cache
