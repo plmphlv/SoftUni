@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\ref\SecondsSum.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\bin\Debug\net5.0\SecondsSum.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\ref\SecondsSum.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2Exercises\SecondsSum\obj\Debug\net5.0\SecondsSum.genruntimeconfig.cache
