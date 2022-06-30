@@ -1,0 +1,15 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ref\ClockPlusFifteenMinutes.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\bin\Debug\net5.0\ClockPlusFifteenMinutes.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ref\ClockPlusFifteenMinutes.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2Exercises\ClockPlusFifteenMinutes\obj\Debug\net5.0\ClockPlusFifteenMinutes.genruntimeconfig.cache
