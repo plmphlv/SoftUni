@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ref\ProjectTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\bin\Debug\net5.0\ProjectTime.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ref\ProjectTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\ProjectTime\obj\Debug\net5.0\ProjectTime.genruntimeconfig.cache
