@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.exe
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\ref\PipesInAPool.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\ref\PipesInAPool.dll
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\ref\PipesInAPool.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\bin\Debug\net5.0\PipesInAPool.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\ref\PipesInAPool.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PipesInAPool\obj\Debug\net5.0\PipesInAPool.genruntimeconfig.cache
