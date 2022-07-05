@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\ref\PetFood.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\bin\Debug\net5.0\PetFood.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\ref\PetFood.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\PetFood\obj\Debug\net5.0\PetFood.genruntimeconfig.cache

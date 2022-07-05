@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\ref\HarvestTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\bin\Debug\net5.0\HarvestTime.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\ref\HarvestTime.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\HarvestTime\obj\Debug\net5.0\HarvestTime.genruntimeconfig.cache
