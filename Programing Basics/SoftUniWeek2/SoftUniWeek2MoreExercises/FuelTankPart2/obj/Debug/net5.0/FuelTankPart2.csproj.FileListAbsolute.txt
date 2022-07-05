@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\ref\FuelTankPart2.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\bin\Debug\net5.0\FuelTankPart2.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\ref\FuelTankPart2.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek2MoreExercises\FuelTankPart2\obj\Debug\net5.0\FuelTankPart2.genruntimeconfig.cache
