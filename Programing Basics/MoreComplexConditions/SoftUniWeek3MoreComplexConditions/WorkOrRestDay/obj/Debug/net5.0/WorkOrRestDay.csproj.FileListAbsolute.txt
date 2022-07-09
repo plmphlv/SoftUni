@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\bin\Debug\net5.0\WorkOrRestDay.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\refint\WorkOrRestDay.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\WorkOrRestDay.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\WorkOrRestDay\obj\Debug\net5.0\ref\WorkOrRestDay.dll
