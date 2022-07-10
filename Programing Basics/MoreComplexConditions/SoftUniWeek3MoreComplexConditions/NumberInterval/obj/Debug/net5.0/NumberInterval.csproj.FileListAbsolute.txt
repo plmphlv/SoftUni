@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\bin\Debug\net5.0\NumberInterval.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\refint\NumberInterval.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\NumberInterval.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\NumberInterval\obj\Debug\net5.0\ref\NumberInterval.dll

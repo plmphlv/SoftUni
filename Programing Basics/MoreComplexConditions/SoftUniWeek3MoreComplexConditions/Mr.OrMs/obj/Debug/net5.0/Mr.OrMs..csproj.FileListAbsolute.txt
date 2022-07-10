@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\bin\Debug\net5.0\Mr.OrMs..pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\refint\Mr.OrMs..dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\Mr.OrMs..genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Mr.OrMs\obj\Debug\net5.0\ref\Mr.OrMs..dll
