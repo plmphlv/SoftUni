@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\bin\Debug\net5.0\TradeCommisions.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\refint\TradeCommisions.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\TradeCommisions.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\TradeCommisions\obj\Debug\net5.0\ref\TradeCommisions.dll

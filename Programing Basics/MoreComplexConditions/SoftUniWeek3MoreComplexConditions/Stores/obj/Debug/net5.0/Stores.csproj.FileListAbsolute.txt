@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\refint\Stores.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\ref\Stores.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\bin\Debug\net5.0\Stores.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\refint\Stores.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\Stores.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\Stores\obj\Debug\net5.0\ref\Stores.dll
