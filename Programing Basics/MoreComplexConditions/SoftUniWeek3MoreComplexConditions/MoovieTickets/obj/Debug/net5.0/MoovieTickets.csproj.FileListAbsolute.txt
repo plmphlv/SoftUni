@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\bin\Debug\net5.0\MoovieTickets.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\refint\MoovieTickets.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\MoovieTickets.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoovieTickets\obj\Debug\net5.0\ref\MoovieTickets.dll

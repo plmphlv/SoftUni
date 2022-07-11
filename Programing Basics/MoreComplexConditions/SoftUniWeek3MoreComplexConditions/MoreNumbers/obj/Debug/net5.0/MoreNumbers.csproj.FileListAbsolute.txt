@@ -1,0 +1,32 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\refint\MoreNumbers.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\ref\MoreNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\bin\Debug\net5.0\MoreNumbers.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\refint\MoreNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\MoreNumbers.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\MoreNumbers\obj\Debug\net5.0\ref\MoreNumbers.dll
