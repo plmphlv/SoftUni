@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\bin\Debug\net5.0\FruitOrVeggie.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\refint\FruitOrVeggie.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\FruitOrVeggie.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\FruitOrVeggie\obj\Debug\net5.0\ref\FruitOrVeggie.dll

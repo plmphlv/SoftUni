@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\bin\Debug\net5.0\FruitStore.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\refint\FruitStore.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\FruitStore.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditions\FruitStore\obj\Debug\net5.0\ref\FruitStore.dll
