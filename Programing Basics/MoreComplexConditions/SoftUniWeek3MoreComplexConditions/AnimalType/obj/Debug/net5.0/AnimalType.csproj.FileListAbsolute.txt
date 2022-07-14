@@ -1,0 +1,16 @@
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.exe
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.deps.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.dev.json
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\bin\Debug\net5.0\AnimalType.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\refint\AnimalType.dll
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.pdb
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\AnimalType.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\SoftUniWeek3MoreComplexConditions\AnimalType\obj\Debug\net5.0\ref\AnimalType.dll
