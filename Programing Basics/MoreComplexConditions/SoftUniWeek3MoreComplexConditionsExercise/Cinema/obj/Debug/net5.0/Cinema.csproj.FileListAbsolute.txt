@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\bin\Debug\net5.0\Cinema.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\refint\Cinema.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\Cinema.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\Cinema\obj\Debug\net5.0\ref\Cinema.dll
