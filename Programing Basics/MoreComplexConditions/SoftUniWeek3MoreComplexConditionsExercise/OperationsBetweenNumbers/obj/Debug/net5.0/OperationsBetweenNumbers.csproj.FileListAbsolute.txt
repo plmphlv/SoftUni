@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\bin\Debug\net5.0\OperationsBetweenNumbers.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\refint\OperationsBetweenNumbers.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\OperationsBetweenNumbers\obj\Debug\net5.0\ref\OperationsBetweenNumbers.dll
