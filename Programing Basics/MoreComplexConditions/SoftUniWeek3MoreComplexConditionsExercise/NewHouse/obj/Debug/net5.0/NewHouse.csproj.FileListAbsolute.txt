@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\bin\Debug\net5.0\NewHouse.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\refint\NewHouse.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\NewHouse.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\NewHouse\obj\Debug\net5.0\ref\NewHouse.dll

@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\bin\Debug\net5.0\Journey.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\refint\Journey.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\Journey.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\Journey\obj\Debug\net5.0\ref\Journey.dll
