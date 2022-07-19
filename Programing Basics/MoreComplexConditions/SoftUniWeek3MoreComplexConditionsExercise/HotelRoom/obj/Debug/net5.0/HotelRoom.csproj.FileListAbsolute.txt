@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\bin\Debug\net5.0\HotelRoom.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\refint\HotelRoom.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\HotelRoom.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek3MoreComplexConditionsExercise\HotelRoom\obj\Debug\net5.0\ref\HotelRoom.dll

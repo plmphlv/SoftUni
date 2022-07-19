@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\bin\Debug\net5.0\FishingBoat.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\refint\FishingBoat.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\FishingBoat.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsExercise\FishingBoat\obj\Debug\net5.0\ref\FishingBoat.dll
