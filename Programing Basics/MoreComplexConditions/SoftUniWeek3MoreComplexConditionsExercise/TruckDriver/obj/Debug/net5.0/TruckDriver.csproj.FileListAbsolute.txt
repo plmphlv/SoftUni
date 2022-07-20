@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\bin\Debug\net5.0\TruckDriver.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\refint\TruckDriver.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\TruckDriver.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\TruckDriver\obj\Debug\net5.0\ref\TruckDriver.dll
