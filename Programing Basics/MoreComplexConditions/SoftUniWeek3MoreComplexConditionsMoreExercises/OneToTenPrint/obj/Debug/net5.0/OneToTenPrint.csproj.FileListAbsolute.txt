@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\bin\Debug\net5.0\OneToTenPrint.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\refint\OneToTenPrint.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\OneToTenPrint.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\OneToTenPrint\obj\Debug\net5.0\ref\OneToTenPrint.dll

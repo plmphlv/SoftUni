@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\bin\Debug\net5.0\SchoolCamp.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\refint\SchoolCamp.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\SchoolCamp.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\SchoolCamp\obj\Debug\net5.0\ref\SchoolCamp.dll
