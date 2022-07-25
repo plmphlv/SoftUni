@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\bin\Debug\net5.0\MatchTickets.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\refint\MatchTickets.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\MatchTickets.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\MatchTickets\obj\Debug\net5.0\ref\MatchTickets.dll
