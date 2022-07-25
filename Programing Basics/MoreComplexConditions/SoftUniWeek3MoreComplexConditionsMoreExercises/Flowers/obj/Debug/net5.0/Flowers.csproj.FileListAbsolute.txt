@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\bin\Debug\net5.0\Flowers.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\refint\Flowers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\Flowers.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\Flowers\obj\Debug\net5.0\ref\Flowers.dll

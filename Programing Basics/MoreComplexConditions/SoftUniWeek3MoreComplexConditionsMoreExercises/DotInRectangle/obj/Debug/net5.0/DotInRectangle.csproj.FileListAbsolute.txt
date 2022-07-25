@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\bin\Debug\net5.0\DotInRectangle.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\refint\DotInRectangle.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\DotInRectangle.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek3MoreComplexConditionsMoreExercises\DotInRectangle\obj\Debug\net5.0\ref\DotInRectangle.dll

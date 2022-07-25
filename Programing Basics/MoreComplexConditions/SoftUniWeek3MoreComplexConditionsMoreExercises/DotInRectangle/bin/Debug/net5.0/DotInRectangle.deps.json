@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotInRectangle/1.0.0": {
+        "runtime": {
+          "DotInRectangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotInRectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
