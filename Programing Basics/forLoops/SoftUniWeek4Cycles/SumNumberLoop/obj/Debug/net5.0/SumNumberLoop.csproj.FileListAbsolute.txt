@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\bin\Debug\net5.0\SumNumberLoop.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\refint\SumNumberLoop.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\SumNumberLoop.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\SumNumberLoop\obj\Debug\net5.0\ref\SumNumberLoop.dll
