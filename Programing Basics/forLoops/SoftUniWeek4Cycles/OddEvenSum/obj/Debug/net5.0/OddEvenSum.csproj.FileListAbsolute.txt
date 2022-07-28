@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\bin\Debug\net5.0\OddEvenSum.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\refint\OddEvenSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\OddEvenSum.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\OddEvenSum\obj\Debug\net5.0\ref\OddEvenSum.dll
