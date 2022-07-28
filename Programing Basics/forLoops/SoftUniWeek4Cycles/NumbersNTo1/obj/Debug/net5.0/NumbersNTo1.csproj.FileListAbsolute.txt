@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\bin\Debug\net5.0\NumbersNTo1.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\refint\NumbersNTo1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\NumbersNTo1.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\NumbersNTo1\obj\Debug\net5.0\ref\NumbersNTo1.dll
