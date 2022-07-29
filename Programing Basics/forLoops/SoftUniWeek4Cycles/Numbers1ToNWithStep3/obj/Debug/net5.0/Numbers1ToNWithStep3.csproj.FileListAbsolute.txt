@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\bin\Debug\net5.0\Numbers1ToNWithStep3.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\refint\Numbers1ToNWithStep3.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\Numbers1ToNWithStep3.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\Numbers1ToNWithStep3\obj\Debug\net5.0\ref\Numbers1ToNWithStep3.dll

@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\bin\Debug\net5.0\LeftAndRightSum.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\refint\LeftAndRightSum.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\LeftAndRightSum.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4Cycles\LeftAndRightSum\obj\Debug\net5.0\ref\LeftAndRightSum.dll
