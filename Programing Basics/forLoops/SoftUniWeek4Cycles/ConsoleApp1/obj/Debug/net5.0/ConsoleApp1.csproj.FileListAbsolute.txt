@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek4Cycles\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
