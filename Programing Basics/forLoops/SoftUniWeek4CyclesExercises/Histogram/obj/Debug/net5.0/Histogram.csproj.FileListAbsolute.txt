@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\bin\Debug\net5.0\Histogram.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\refint\Histogram.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\Histogram.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\Histogram\obj\Debug\net5.0\ref\Histogram.dll
