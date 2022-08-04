@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.exe
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.deps.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.runtimeconfig.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\bin\Debug\net5.0\CleverLily.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\refint\CleverLily.dll
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.pdb
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\CleverLily.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\Desktop\SoftUniWeek4CyclesExercises\CleverLily\obj\Debug\net5.0\ref\CleverLily.dll
