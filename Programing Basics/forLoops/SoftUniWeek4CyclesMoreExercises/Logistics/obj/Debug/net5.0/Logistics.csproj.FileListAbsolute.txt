@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\bin\Debug\net5.0\Logistics.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\refint\Logistics.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\Logistics.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Logistics\obj\Debug\net5.0\ref\Logistics.dll

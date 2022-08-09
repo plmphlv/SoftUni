@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\bin\Debug\net5.0\GameOfIntervals.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\refint\GameOfIntervals.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\GameOfIntervals.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\GameOfIntervals\obj\Debug\net5.0\ref\GameOfIntervals.dll
