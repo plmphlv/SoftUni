@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\bin\Debug\net5.0\EqualPairs.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\refint\EqualPairs.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\EqualPairs.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\EqualPairs\obj\Debug\net5.0\ref\EqualPairs.dll

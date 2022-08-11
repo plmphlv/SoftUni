@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\bin\Debug\net5.0\Clock.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\refint\Clock.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\Clock.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 4 - Cycles\Exercises\SoftUniWeek4CyclesMoreExercises\Clock\obj\Debug\net5.0\ref\Clock.dll
