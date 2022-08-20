@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\bin\Debug\net5.0\Sequence2k+1.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\refint\Sequence2k+1.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\Sequence2k+1.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Sequence2k+1\obj\Debug\net5.0\ref\Sequence2k+1.dll

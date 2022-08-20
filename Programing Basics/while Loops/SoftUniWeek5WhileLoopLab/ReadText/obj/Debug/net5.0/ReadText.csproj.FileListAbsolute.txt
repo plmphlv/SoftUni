@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\bin\Debug\net5.0\ReadText.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\refint\ReadText.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ReadText.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\ReadText\obj\Debug\net5.0\ref\ReadText.dll
