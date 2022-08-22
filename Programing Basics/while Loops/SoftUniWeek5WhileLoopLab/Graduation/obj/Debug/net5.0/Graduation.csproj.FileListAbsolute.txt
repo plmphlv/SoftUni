@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\bin\Debug\net5.0\Graduation.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\refint\Graduation.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\Graduation.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopLab\Graduation\obj\Debug\net5.0\ref\Graduation.dll
