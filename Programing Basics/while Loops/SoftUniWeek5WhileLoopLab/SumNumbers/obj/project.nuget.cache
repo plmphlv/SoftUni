@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NPQ8OCqzG508EGpVp7DdtPuU3kiflZYZFG1gLQfEOqYk2DOQG/ycxyx30ErRU84KabbMoai2jP0siyRRj8E2Og==",
+  "dgSpecHash": "uGVzc0wnqPdn+YbQi6PSzWSSYu058rJzh7tbDDw9+kPkpS3Viv2RjVW1yKiHixeyVLHPTWACWg0DxISMRwAF5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamen\\Desktop\\Developer stuff\\SoftUni - C# programing basics\\Week 5 - while loop\\Exercises\\SoftUniWeek5WhileLoopLab\\SumNumbers\\SumNumbers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Basics\\while Loops\\SoftUniWeek5WhileLoopLab\\SumNumbers\\SumNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
