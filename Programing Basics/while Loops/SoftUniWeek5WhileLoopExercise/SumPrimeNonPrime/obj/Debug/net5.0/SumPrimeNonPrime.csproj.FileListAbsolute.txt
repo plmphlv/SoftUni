@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\bin\Debug\net5.0\SumPrimeNonPrime.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\refint\SumPrimeNonPrime.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\SumPrimeNonPrime\obj\Debug\net5.0\ref\SumPrimeNonPrime.dll
