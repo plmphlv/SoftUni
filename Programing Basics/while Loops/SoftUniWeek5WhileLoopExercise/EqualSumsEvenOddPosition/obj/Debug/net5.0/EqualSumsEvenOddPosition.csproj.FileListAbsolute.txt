@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\refint\EqualSumsEvenOddPosition.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\EqualSumsEvenOddPosition.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net5.0\ref\EqualSumsEvenOddPosition.dll
