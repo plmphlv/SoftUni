@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\bin\Debug\net5.0\NumberPyramid.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\refint\NumberPyramid.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\ConsoleApp1\obj\Debug\net5.0\ref\NumberPyramid.dll
