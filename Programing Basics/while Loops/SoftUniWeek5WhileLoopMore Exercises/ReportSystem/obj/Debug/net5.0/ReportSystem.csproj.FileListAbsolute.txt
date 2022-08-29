@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.exe
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.deps.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.runtimeconfig.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\bin\Debug\net5.0\ReportSystem.pdb
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\refint\ReportSystem.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.pdb
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ReportSystem.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\ReportSystem\obj\Debug\net5.0\ref\ReportSystem.dll
