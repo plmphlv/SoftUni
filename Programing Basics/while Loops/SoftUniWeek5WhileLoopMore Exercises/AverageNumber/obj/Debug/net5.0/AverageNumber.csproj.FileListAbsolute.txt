@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.exe
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.deps.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.runtimeconfig.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\bin\Debug\net5.0\AverageNumber.pdb
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\refint\AverageNumber.dll
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.pdb
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\AverageNumber.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\SoftUniWeek5WhileLoopMore Exercises\AverageNumber\obj\Debug\net5.0\ref\AverageNumber.dll
