@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\bin\Debug\net5.0\Dishwasher.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\refint\Dishwasher.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\Dishwasher.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek5WhileLoopMore Exercises\Dishwasher\obj\Debug\net5.0\ref\Dishwasher.dll
