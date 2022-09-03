@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\bin\Debug\net5.0\SumOfTwoNumbers.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\refint\SumOfTwoNumbers.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\SumOfTwoNumbers\obj\Debug\net5.0\ref\SumOfTwoNumbers.dll
