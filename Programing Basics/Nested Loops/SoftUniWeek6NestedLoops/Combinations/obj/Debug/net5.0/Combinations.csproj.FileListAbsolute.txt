@@ -1,0 +1,16 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\bin\Debug\net5.0\Combinations.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\refint\Combinations.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\Combinations.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Combinations\obj\Debug\net5.0\ref\Combinations.dll

@@ -1,0 +1,32 @@
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.exe
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.deps.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.runtimeconfig.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.runtimeconfig.dev.json
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\refint\Building.dll
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.pdb
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\Developer stuff\SoftUni - C# programing basics\Week 5 - while loop\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\ref\Building.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.exe
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.deps.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.runtimeconfig.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.runtimeconfig.dev.json
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\bin\Debug\net5.0\Building.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.csproj.AssemblyReference.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.AssemblyInfoInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.AssemblyInfo.cs
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.csproj.CoreCompileInputs.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\refint\Building.dll
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.pdb
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\Building.genruntimeconfig.cache
+D:\Developer stuff\Study Materials\SoftUni\1. SoftUni - C# Programing Basics\Week 6 - Nested Loops\Exercises\SoftUniWeek6NestedLoops\Building\obj\Debug\net5.0\ref\Building.dll
