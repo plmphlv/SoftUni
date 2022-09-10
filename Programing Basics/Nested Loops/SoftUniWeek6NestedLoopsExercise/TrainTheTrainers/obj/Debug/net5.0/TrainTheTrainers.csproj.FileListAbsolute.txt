@@ -1,0 +1,16 @@
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.exe
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.deps.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.runtimeconfig.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\bin\Debug\net5.0\TrainTheTrainers.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.csproj.AssemblyReference.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\refint\TrainTheTrainers.dll
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.pdb
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\TrainTheTrainers.genruntimeconfig.cache
+C:\Users\ЕКАФП 1\source\repos\SoftUniWeek6NestedLoopsExercise\TrainTheTrainers\obj\Debug\net5.0\ref\TrainTheTrainers.dll
