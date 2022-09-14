@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\bin\Debug\net6.0\StudentInformation.exe
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\bin\Debug\net6.0\StudentInformation.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\bin\Debug\net6.0\StudentInformation.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\bin\Debug\net6.0\StudentInformation.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\bin\Debug\net6.0\StudentInformation.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\refint\StudentInformation.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\StudentInformation.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\StudentInformation\obj\Debug\net6.0\ref\StudentInformation.dll

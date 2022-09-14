@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.exe
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\bin\Debug\net6.0\PassedOrFailed.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\refint\PassedOrFailed.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\PassedOrFailed.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\PassedOrFailed\obj\Debug\net6.0\ref\PassedOrFailed.dll

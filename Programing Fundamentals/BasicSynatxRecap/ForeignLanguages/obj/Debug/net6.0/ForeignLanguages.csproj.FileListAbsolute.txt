@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.exe
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\bin\Debug\net6.0\ForeignLanguages.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\refint\ForeignLanguages.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ForeignLanguages.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\ForeignLanguages\obj\Debug\net6.0\ref\ForeignLanguages.dll

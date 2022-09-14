@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\bin\Debug\net6.0\MonthPrinter.exe
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\bin\Debug\net6.0\MonthPrinter.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\bin\Debug\net6.0\MonthPrinter.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\bin\Debug\net6.0\MonthPrinter.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\bin\Debug\net6.0\MonthPrinter.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\refint\MonthPrinter.dll
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.pdb
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\MonthPrinter.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\BasicSynatxRecap\MonthPrinter\obj\Debug\net6.0\ref\MonthPrinter.dll
