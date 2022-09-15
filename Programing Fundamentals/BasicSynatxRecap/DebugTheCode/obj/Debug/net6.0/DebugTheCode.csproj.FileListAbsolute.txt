@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\bin\Debug\net6.0\DebugTheCode.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\bin\Debug\net6.0\DebugTheCode.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\bin\Debug\net6.0\DebugTheCode.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\bin\Debug\net6.0\DebugTheCode.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\bin\Debug\net6.0\DebugTheCode.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\refint\DebugTheCode.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\DebugTheCode.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DebugTheCode\obj\Debug\net6.0\ref\DebugTheCode.dll

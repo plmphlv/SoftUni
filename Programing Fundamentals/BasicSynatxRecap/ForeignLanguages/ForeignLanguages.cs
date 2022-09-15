@@ -20,7 +20,7 @@ namespace MonthPrinter
                     Console.WriteLine("Spanish");
                     break;
                 default:
-                    Console.WriteLine("Error!");
+                    Console.WriteLine("unknown");
                     break;
             }
         }

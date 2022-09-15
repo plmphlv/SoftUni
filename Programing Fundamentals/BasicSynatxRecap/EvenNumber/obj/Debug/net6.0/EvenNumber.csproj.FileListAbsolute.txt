@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\bin\Debug\net6.0\EvenNumber.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\bin\Debug\net6.0\EvenNumber.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\bin\Debug\net6.0\EvenNumber.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\bin\Debug\net6.0\EvenNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\bin\Debug\net6.0\EvenNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\refint\EvenNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\EvenNumber.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\EvenNumber\obj\Debug\net6.0\ref\EvenNumber.dll

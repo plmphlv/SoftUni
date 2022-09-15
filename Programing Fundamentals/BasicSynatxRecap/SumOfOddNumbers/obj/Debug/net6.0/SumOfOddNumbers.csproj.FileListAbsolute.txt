@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\bin\Debug\net6.0\SumOfOddNumbers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\bin\Debug\net6.0\SumOfOddNumbers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\bin\Debug\net6.0\SumOfOddNumbers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\bin\Debug\net6.0\SumOfOddNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\bin\Debug\net6.0\SumOfOddNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\refint\SumOfOddNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\SumOfOddNumbers\obj\Debug\net6.0\ref\SumOfOddNumbers.dll

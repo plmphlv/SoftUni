@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj",
         "projectName": "BackIn30Minutes",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\BasicSynatxRecap\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\ConsoleApp1\\BackIn30Minutes.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

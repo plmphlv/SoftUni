@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\bin\Debug\net6.0\TheatrePromotions.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\refint\TheatrePromotions.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\TheatrePromotions.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\TheatrePromotions\obj\Debug\net6.0\ref\TheatrePromotions.dll
