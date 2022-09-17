@@ -1,0 +1,30 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\refint\4.PrintAndSum.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\ref\4.PrintAndSum.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\bin\Debug\net6.0\4.PrintAndSum.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\refint\4.PrintAndSum.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\4.PrintAndSum.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\4.PrintAndSum\obj\Debug\net6.0\ref\4.PrintAndSum.dll

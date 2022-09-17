@@ -1,0 +1,30 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\refint\1.Ages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\ref\1.Ages.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\bin\Debug\net6.0\1.Ages.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\refint\1.Ages.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\1.Ages.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\ConsoleApp1\obj\Debug\net6.0\ref\1.Ages.dll

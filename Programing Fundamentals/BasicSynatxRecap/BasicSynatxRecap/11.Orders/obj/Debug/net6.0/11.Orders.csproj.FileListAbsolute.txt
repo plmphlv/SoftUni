@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\bin\Debug\net6.0\11.Orders.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\bin\Debug\net6.0\11.Orders.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\bin\Debug\net6.0\11.Orders.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\bin\Debug\net6.0\11.Orders.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\bin\Debug\net6.0\11.Orders.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\refint\11.Orders.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\11.Orders.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\11.Orders\obj\Debug\net6.0\ref\11.Orders.dll

@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\bin\Debug\net6.0\8.TriangleOfNumbers.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\refint\8.TriangleOfNumbers.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\8.TriangleOfNumbers.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSyntaxExercise\8.TriangleOfNumbers\obj\Debug\net6.0\ref\8.TriangleOfNumbers.dll
