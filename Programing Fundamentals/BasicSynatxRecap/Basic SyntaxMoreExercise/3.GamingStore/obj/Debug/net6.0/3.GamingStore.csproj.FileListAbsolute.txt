@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\Basi
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.pdb
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\ref\3.GamingStore.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\bin\Debug\net6.0\3.GamingStore.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\bin\Debug\net6.0\3.GamingStore.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\bin\Debug\net6.0\3.GamingStore.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\bin\Debug\net6.0\3.GamingStore.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\bin\Debug\net6.0\3.GamingStore.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\refint\3.GamingStore.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\3.GamingStore.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\3.GamingStore\obj\Debug\net6.0\ref\3.GamingStore.dll

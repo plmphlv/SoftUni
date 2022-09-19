@@ -37,7 +37,7 @@ namespace _1.SortNumbers
                     num3S = buffer;
                 }
 
-                if (((num1L > num2M) && (num2M > num3S) && (num1L > num3S)) || (num1L > 0 && num2M == 0 && num3S == 0))
+                if (((num1L > num2M) && (num2M >= num3S) && (num1L > num3S)) || (num1L > 0 && num2M == 0 && num3S == 0))
                 {
                     needsSorting = false;
                 }

@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\Basi
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.pdb
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\ref\1.SortNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\bin\Debug\net6.0\1.SortNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\refint\1.SortNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\1.SortNumbers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\1.SortNumbers\obj\Debug\net6.0\ref\1.SortNumbers.dll

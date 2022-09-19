@@ -48,7 +48,7 @@ namespace _3.GamingStore
                 else
                 {
                     Console.WriteLine("Too Expensive");
-                    return;
+                    continue;
                 }
 
                 if (money <= 0)
