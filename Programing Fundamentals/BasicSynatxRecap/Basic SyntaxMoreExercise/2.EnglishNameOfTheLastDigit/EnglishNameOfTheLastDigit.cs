@@ -6,7 +6,7 @@ namespace _2.EnglishNameOfTheLastDigit
     {
         static void Main(string[] args)
         {
-            int number = (int.Parse(Console.ReadLine()))%10;
+            int number = (int.Parse(Console.ReadLine())) % 10;
 
             switch (number)
             {

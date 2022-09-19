@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\Basi
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.pdb
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\ref\5.Messages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\bin\Debug\net6.0\5.Messages.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\bin\Debug\net6.0\5.Messages.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\bin\Debug\net6.0\5.Messages.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\bin\Debug\net6.0\5.Messages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\bin\Debug\net6.0\5.Messages.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\refint\5.Messages.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\5.Messages.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\Basic SyntaxMoreExercise\5.Messages\obj\Debug\net6.0\ref\5.Messages.dll
