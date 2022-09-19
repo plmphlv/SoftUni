@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\bin\Debug\net6.0\2.PoundsToDollars.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\refint\2.PoundsToDollars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\2.PoundsToDollars.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\2.PoundsToDollars\obj\Debug\net6.0\ref\2.PoundsToDollars.dll

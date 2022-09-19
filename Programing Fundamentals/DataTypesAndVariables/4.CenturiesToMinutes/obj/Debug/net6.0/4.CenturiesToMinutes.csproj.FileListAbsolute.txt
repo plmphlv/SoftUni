@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\bin\Debug\net6.0\4.CenturiesToMinutes.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\refint\4.CenturiesToMinutes.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\4.CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\4.CenturiesToMinutes\obj\Debug\net6.0\ref\4.CenturiesToMinutes.dll

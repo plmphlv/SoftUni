@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\net6.0\ConvertMetersToKilometers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\refint\ConvertMetersToKilometers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ConvertMetersToKilometers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\net6.0\ref\ConvertMetersToKilometers.dll

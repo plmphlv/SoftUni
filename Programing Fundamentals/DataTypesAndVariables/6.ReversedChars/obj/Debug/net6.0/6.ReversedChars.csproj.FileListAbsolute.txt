@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\bin\Debug\net6.0\6.ReversedChars.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\refint\6.ReversedChars.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\6.ReversedChars.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\6.ReversedChars\obj\Debug\net6.0\ref\6.ReversedChars.dll
