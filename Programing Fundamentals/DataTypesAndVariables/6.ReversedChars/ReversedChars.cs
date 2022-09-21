@@ -1,4 +1,6 @@
-﻿namespace _6.ReversedChars
+﻿using System;
+
+namespace _6.ReversedChars
 {
     internal class ReversedChars
     {

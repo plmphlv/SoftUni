@@ -1,4 +1,6 @@
-﻿namespace _4.CenturiesToMinutes
+﻿using System;
+
+namespace _4.CenturiesToMinutes
 {
     internal class CenturiesToMinutes
     {

@@ -1,4 +1,6 @@
-﻿namespace _12.RefactorSpecialNumbers
+﻿using System;
+
+namespace _12.RefactorSpecialNumbers
 {
     internal class RefactorSpecialNumbers
     {

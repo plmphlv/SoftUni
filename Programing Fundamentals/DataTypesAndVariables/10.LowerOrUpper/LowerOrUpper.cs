@@ -1,4 +1,6 @@
-﻿namespace _10.LowerOrUpper
+﻿using System;
+
+namespace _10.LowerOrUpper
 {
     internal class LowerOrUpper
     {

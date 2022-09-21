@@ -1,4 +1,6 @@
-﻿namespace _2.PoundsToDollars
+﻿using System;
+
+namespace _2.PoundsToDollars
 {
     internal class PoundsToDollars
     {

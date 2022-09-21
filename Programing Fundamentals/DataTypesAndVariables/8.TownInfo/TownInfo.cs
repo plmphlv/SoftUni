@@ -1,4 +1,6 @@
-﻿namespace _8.TownInfo
+﻿using System;
+
+namespace _8.TownInfo
 {
     internal class TownInfo
     {

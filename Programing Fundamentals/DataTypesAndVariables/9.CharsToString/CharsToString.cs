@@ -1,4 +1,6 @@
-﻿namespace _9.CharsToString
+﻿using System;
+
+namespace _9.CharsToString
 {
     internal class CharsToString
     {

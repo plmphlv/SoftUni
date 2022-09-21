@@ -1,4 +1,6 @@
-﻿namespace _3.ExactSumOfRealNumbers
+﻿using System;
+
+namespace _3.ExactSumOfRealNumbers
 {
     internal class ExactSumOfRealNumbers
     {
