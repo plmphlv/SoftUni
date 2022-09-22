@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj",
         "projectName": "2.EnglishNameOfTheLastDigit",
-        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj",
-        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\obj\\",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\2.EnglishNameOfTheLastDigit.csproj",
+        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\Basic SyntaxMoreExercise\\2.EnglishNameOfTheLastDigit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

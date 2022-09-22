@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\bin\Debug\net6.0\2.SumDigits.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\bin\Debug\net6.0\2.SumDigits.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\bin\Debug\net6.0\2.SumDigits.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\bin\Debug\net6.0\2.SumDigits.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\bin\Debug\net6.0\2.SumDigits.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\refint\2.SumDigits.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\2.SumDigits.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\2.SumDigits\obj\Debug\net6.0\ref\2.SumDigits.dll

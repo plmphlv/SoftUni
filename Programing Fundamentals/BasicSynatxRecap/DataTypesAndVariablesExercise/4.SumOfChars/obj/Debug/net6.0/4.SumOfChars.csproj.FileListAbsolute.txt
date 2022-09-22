@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\bin\Debug\net6.0\4.SumOfChars.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\refint\4.SumOfChars.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\4.SumOfChars.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\BasicSynatxRecap\DataTypesAndVariablesExercise\4.SumOfChars\obj\Debug\net6.0\ref\4.SumOfChars.dll
