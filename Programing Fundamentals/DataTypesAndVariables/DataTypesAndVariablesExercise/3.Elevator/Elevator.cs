@@ -1,4 +1,6 @@
-﻿namespace _3.Elevator
+﻿using System;
+
+namespace _3.Elevator
 {
     internal class Elevator
     {

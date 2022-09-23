@@ -1,4 +1,6 @@
-﻿namespace _8.BeerKegs
+﻿using System;
+
+namespace _8.BeerKegs
 {
     internal class BeerKegs
     {

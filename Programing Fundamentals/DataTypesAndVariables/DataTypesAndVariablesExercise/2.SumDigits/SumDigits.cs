@@ -1,4 +1,6 @@
-﻿namespace _2.SumDigits
+﻿using System;
+
+namespace _2.SumDigits
 {
     internal class SumDigits
     {

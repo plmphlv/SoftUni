@@ -1,4 +1,6 @@
-﻿namespace _6.TriplesOfLatinLetters
+﻿using System;
+
+namespace _6.TriplesOfLatinLetters
 {
     internal class TriplesOfLatinLetters
     {

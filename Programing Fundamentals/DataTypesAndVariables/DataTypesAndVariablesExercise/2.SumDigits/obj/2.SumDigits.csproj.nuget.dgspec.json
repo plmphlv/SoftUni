@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj",
         "projectName": "2.SumDigits",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\2.SumDigits\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\2.SumDigits\\2.SumDigits.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\2.SumDigits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

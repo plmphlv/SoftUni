@@ -1,4 +1,6 @@
-﻿namespace _5.PrintPartOfTheASCIITable
+﻿using System;
+
+namespace _5.PrintPartOfTheASCIITable
 {
     internal class PrintPartOfTheASCIITable
     {

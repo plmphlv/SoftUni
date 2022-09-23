@@ -1,4 +1,6 @@
-﻿namespace _4.SumOfChars
+﻿using System;
+
+namespace _4.SumOfChars
 {
     internal class SumOfChars
     {

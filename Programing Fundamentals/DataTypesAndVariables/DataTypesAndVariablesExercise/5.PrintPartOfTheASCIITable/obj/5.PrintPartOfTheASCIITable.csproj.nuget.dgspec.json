@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj",
         "projectName": "5.PrintPartOfTheASCIITable",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\BasicSynatxRecap\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\5.PrintPartOfTheASCIITable.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesExercise\\5.PrintPartOfTheASCIITable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

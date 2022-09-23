@@ -1,4 +1,6 @@
-﻿namespace _1.IntegerOperations
+﻿using System;
+
+namespace _1.IntegerOperations
 {
     internal class IntegerOperations
     {

@@ -1,4 +1,6 @@
-﻿namespace _7.WaterOverflow
+﻿using System;
+
+namespace _7.WaterOverflow
 {
     internal class WaterOverflow
     {
@@ -11,7 +13,7 @@
             {
                 int liters = int.Parse(Console.ReadLine());
 
-                if (capacity + liters < 255)
+                if (capacity + liters <= 255)
                 {
                     capacity += (byte)liters;
                 }

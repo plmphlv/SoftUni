@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\bin\Debug\net6.0\3.FloatingEquality.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\bin\Debug\net6.0\3.FloatingEquality.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\bin\Debug\net6.0\3.FloatingEquality.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\bin\Debug\net6.0\3.FloatingEquality.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\bin\Debug\net6.0\3.FloatingEquality.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\refint\3.FloatingEquality.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\3.FloatingEquality.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\3.FloatingEquality\obj\Debug\net6.0\ref\3.FloatingEquality.dll
