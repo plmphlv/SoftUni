@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj",
         "projectName": "1.DataTypeFinder",
-        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj",
-        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\obj\\",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\1.DataTypeFinder.csproj",
+        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\1.DataTypeFinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

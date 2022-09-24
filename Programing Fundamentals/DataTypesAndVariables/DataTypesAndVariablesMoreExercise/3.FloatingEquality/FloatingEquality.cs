@@ -1,4 +1,6 @@
-﻿namespace _3.FloatingEquality
+﻿using System;
+
+namespace _3.FloatingEquality
 {
     internal class FloatingEquality
     {

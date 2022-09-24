@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace _11.Snowballs
 {
@@ -8,25 +9,25 @@ namespace _11.Snowballs
         {
             int numOfInputs = int.Parse(Console.ReadLine());
 
-            double bestSnowballValue = 0;
+            BigInteger bestSnowballValue = BigInteger.MinusOne;
             int bestSnowballSnow = 0;
             int bestSnowballTime = 0;
             int bestSnowballQuality = 0;
 
             for (int i = 1; i <= numOfInputs; i++)
             {
-                double snowballSnow = double.Parse(Console.ReadLine());
-                double snowballTime = double.Parse(Console.ReadLine());
-                double snowballQuality = double.Parse(Console.ReadLine());
+                int snowballSnow = int.Parse(Console.ReadLine());
+                int snowballTime = int.Parse(Console.ReadLine());
+                int snowballQuality = int.Parse(Console.ReadLine());
 
-                double snowballValue = Math.Pow((snowballSnow / snowballTime), snowballQuality);
+                BigInteger snowballValue = BigInteger.Pow((snowballSnow / snowballTime), snowballQuality);
 
                 if (snowballValue > bestSnowballValue)
                 {
-                    bestSnowballValue = Math.Ceiling(snowballValue);
-                    bestSnowballQuality = (int)snowballQuality;
-                    bestSnowballSnow = (int)snowballSnow;
-                    bestSnowballTime = (int)snowballTime;
+                    bestSnowballValue = snowballValue;
+                    bestSnowballQuality = snowballQuality;
+                    bestSnowballSnow = snowballSnow;
+                    bestSnowballTime = snowballTime;
                 }
             }
 

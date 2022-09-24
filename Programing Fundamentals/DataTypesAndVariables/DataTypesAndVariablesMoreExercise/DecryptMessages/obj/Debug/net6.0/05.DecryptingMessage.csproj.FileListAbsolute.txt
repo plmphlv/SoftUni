@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\bin\Debug\net6.0\05.DecryptingMessage.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\bin\Debug\net6.0\05.DecryptingMessage.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\bin\Debug\net6.0\05.DecryptingMessage.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\bin\Debug\net6.0\05.DecryptingMessage.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\bin\Debug\net6.0\05.DecryptingMessage.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\refint\05.DecryptingMessage.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\05.DecryptingMessage.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\DecryptMessages\obj\Debug\net6.0\ref\05.DecryptingMessage.dll

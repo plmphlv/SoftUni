@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+﻿using System;
 
 namespace _2.FromLeftToTheRight
 {
@@ -13,24 +13,31 @@ namespace _2.FromLeftToTheRight
             {
                 string leftRight = Console.ReadLine();
                 string[] split = leftRight.Split(' ');
-                long[] nums = new long[split.Length];
-                int arrPosition = 0;
 
-                foreach (string line in split)
+
+                long left = long.Parse(split[0]);
+                long right = long.Parse(split[1]);
+
+                long biggest;
+
+                if (left > right)
                 {
-                    nums[arrPosition++] = long.Parse(line);
+                    biggest = left;
+                }
+                else
+                {
+                    biggest = right;
                 }
 
-                long biggest = nums.Max();
                 long digitSum = 0;
 
-                while (biggest > 0)
+                while (biggest != 0)
                 {
                     digitSum += biggest % 10;
                     biggest /= 10;
                 }
 
-                Console.WriteLine(digitSum);
+                Console.WriteLine(Math.Abs(digitSum));
             }
         }
     }

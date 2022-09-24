@@ -13,3 +13,18 @@ C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAnd
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.pdb
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.genruntimeconfig.cache
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\ref\1.DataTypeFinder.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\bin\Debug\net6.0\1.DataTypeFinder.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\bin\Debug\net6.0\1.DataTypeFinder.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\bin\Debug\net6.0\1.DataTypeFinder.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\bin\Debug\net6.0\1.DataTypeFinder.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\bin\Debug\net6.0\1.DataTypeFinder.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\refint\1.DataTypeFinder.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\1.DataTypeFinder.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\1.DataTypeFinder\obj\Debug\net6.0\ref\1.DataTypeFinder.dll

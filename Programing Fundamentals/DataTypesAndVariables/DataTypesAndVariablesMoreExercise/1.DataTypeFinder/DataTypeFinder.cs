@@ -17,19 +17,19 @@ namespace _1.DataTypeFinder
 
                 if (int.TryParse(input, out integerNum))
                 {
-                    Console.WriteLine($"{integerNum} is integer type");
+                    Console.WriteLine($"{input} is integer type");
                 }
                 else if(double.TryParse(input,out floatingPiontNum))
                 {
-                    Console.WriteLine($"{floatingPiontNum} is floating point type");
-                }
-                else if (bool.TryParse(input, out booleanType))
-                {
-                    Console.WriteLine($"{booleanType} is boolean type");
+                    Console.WriteLine($"{input} is floating point type");
                 }
                 else if (char.TryParse(input, out characterType))
                 {
-                    Console.WriteLine($"{characterType} is character type");
+                    Console.WriteLine($"{input} is character type");
+                }
+                else if (bool.TryParse(input, out booleanType))
+                {
+                    Console.WriteLine($"{input} is boolean type");
                 }
                 else
                 {

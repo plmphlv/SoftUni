@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\bin\Debug\net6.0\6.Balance.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\bin\Debug\net6.0\6.Balance.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\bin\Debug\net6.0\6.Balance.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\bin\Debug\net6.0\6.Balance.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\bin\Debug\net6.0\6.Balance.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\refint\6.Balance.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\6.Balance.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\DataTypesAndVariables\DataTypesAndVariablesMoreExercise\6.Balance\obj\Debug\net6.0\ref\6.Balance.dll

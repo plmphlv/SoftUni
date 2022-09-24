@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj",
         "projectName": "2.FromLeftToTheRight",
-        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj",
-        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\obj\\",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\2.FromLeftToTheRight.csproj",
+        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\2.FromLeftToTheRight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

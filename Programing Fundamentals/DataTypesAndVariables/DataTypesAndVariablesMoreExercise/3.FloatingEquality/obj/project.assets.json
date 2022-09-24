@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\3.FloatingEquality.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\3.FloatingEquality.csproj",
       "projectName": "3.FloatingEquality",
-      "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\3.FloatingEquality.csproj",
-      "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\obj\\",
+      "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\3.FloatingEquality.csproj",
+      "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\DataTypesAndVariables\\DataTypesAndVariablesMoreExercise\\3.FloatingEquality\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
