@@ -32,16 +32,12 @@ namespace _6.Balance
                 }
             }
 
-            bool Isbalanced = (balanceChecker==string.Empty && isOpen == false);
+            bool IsBalanced = (balanceChecker==string.Empty && isOpen == false);
 
-            if (Isbalanced)
-            {
-                Console.WriteLine("BALANCED");
-            }
-            else
-            {
-                Console.WriteLine("UNBALANCED");
-            }
+
+            string result = IsBalanced ? "BALANCED" : "UNBALANCED";
+
+            Console.WriteLine(result);
         }
     }
 }
