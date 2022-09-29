@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\bin\Debug\net6.0\3.RoundingNumber.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\bin\Debug\net6.0\3.RoundingNumber.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\bin\Debug\net6.0\3.RoundingNumber.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\bin\Debug\net6.0\3.RoundingNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\bin\Debug\net6.0\3.RoundingNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\refint\3.RoundingNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\3.RoundingNumber.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\3.RoundingNumber\obj\Debug\net6.0\ref\3.RoundingNumber.dll

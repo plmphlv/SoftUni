@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\bin\Debug\net6.0\5.SumEvenNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\refint\5.SumEvenNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\5.SumEvenNumbers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\5.SumEvenNumbers\obj\Debug\net6.0\ref\5.SumEvenNumbers.dll

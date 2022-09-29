@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\bin\Debug\net6.0\8.CondenseArrayToNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\refint\8.CondenseArrayToNumber.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\8.CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\8.CondenseArrayToNumber\obj\Debug\net6.0\ref\8.CondenseArrayToNumber.dll

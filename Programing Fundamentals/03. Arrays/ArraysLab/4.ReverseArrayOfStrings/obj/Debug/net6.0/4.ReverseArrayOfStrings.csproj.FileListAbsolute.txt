@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\bin\Debug\net6.0\4.ReverseArrayOfStrings.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\refint\4.ReverseArrayOfStrings.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\4.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\4.ReverseArrayOfStrings\obj\Debug\net6.0\ref\4.ReverseArrayOfStrings.dll

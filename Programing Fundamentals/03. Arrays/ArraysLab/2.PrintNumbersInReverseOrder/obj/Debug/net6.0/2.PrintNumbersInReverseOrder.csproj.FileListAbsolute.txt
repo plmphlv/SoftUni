@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\bin\Debug\net6.0\2.PrintNumbersInReverseOrder.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\2.PrintNumbersInReverseOrder.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\2.PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\ArraysLab\2.PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\2.PrintNumbersInReverseOrder.dll
