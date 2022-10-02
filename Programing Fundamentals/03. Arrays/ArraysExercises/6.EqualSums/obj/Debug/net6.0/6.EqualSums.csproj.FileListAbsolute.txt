@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\bin\Debug\net6.0\6.EqualSums.exe
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\bin\Debug\net6.0\6.EqualSums.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\bin\Debug\net6.0\6.EqualSums.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\bin\Debug\net6.0\6.EqualSums.dll
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\bin\Debug\net6.0\6.EqualSums.pdb
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.dll
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\refint\6.EqualSums.dll
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.pdb
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\6.EqualSums.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\6.EqualSums\obj\Debug\net6.0\ref\6.EqualSums.dll
