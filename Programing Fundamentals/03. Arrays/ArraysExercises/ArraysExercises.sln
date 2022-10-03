@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.MaxSequenceOfEqualElement
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.MagicSum", "8.MagicSum\8.MagicSum.csproj", "{F536774E-63F3-4697-BB53-64A8578F0AC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.KaminoFactory", "9.KaminoFactory\9.KaminoFactory.csproj", "{CAE13E65-8E2E-476B-B358-6601FB7DBD2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.KaminoFactory", "9.KaminoFactory\9.KaminoFactory.csproj", "{CAE13E65-8E2E-476B-B358-6601FB7DBD2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.LadyBugs", "10.LadyBugs\10.LadyBugs.csproj", "{498FEF0E-2767-4F52-8633-13E05AF7166D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{CAE13E65-8E2E-476B-B358-6601FB7DBD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE13E65-8E2E-476B-B358-6601FB7DBD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE13E65-8E2E-476B-B358-6601FB7DBD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498FEF0E-2767-4F52-8633-13E05AF7166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498FEF0E-2767-4F52-8633-13E05AF7166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498FEF0E-2767-4F52-8633-13E05AF7166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498FEF0E-2767-4F52-8633-13E05AF7166D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

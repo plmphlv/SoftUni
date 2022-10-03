@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\9.KaminoFactory\obj\Debu
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.pdb
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\ref\9.KaminoFactory.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\bin\Debug\net6.0\9.KaminoFactory.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\bin\Debug\net6.0\9.KaminoFactory.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\bin\Debug\net6.0\9.KaminoFactory.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\bin\Debug\net6.0\9.KaminoFactory.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\bin\Debug\net6.0\9.KaminoFactory.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\refint\9.KaminoFactory.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\9.KaminoFactory.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\9.KaminoFactory\obj\Debug\net6.0\ref\9.KaminoFactory.dll
