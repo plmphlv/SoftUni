@@ -17,13 +17,33 @@ namespace _9.KaminoFactory
 
             string command;
             int sampleNum = 0;
+
             while ((command = Console.ReadLine()) != "Clone them!")
             {
-                int[] currentDNA = command.Split("!").Select(int.Parse).ToArray();
+                int[] currentDNA = command.Split("!", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+                if (currentDNA.Length != dnaLenght)
+                {
+                    continue;
+                }
+
+                for (int i = 0; i < currentDNA.Length; i++)
+                {
+                    switch (currentDNA[i])
+                    {
+                        case 1:
+                        case 0:
+                            break;
+                        default:
+                            continue;
+                    }
+                }
+
                 sampleNum++;
 
                 int currentLeftMostIndex = -1;
                 int currSeq = 0;
+
                 for (int i = 0; i < currentDNA.Length; i++)
                 {
                     if (i != currentDNA.Length - 1)
