@@ -1,4 +1,7 @@
-﻿namespace _5.TopIntegers
+﻿using System;
+using System.Linq;
+
+namespace _5.TopIntegers
 {
     internal class TopIntegers
     {
@@ -13,7 +16,7 @@
                 bool isTop = true;
                 for (int j = i + 1; j < ints.Length; j++)
                 {
-                    if (topCandidate < ints[j])
+                    if (topCandidate <= ints[j])
                     {
                         isTop = false;
                         break;

@@ -1,4 +1,6 @@
-﻿namespace _1.Train
+﻿using System;
+
+namespace _1.Train
 {
     internal class Train
     {

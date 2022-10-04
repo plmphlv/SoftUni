@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\2.CommonElements\obj\Deb
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.pdb
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\2.CommonElements\obj\Debug\net6.0\ref\2.CommonElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\bin\Debug\net6.0\2.CommonElements.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\bin\Debug\net6.0\2.CommonElements.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\bin\Debug\net6.0\2.CommonElements.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\bin\Debug\net6.0\2.CommonElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\bin\Debug\net6.0\2.CommonElements.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\refint\2.CommonElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\2.CommonElements.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\2.CommonElements\obj\Debug\net6.0\ref\2.CommonElements.dll

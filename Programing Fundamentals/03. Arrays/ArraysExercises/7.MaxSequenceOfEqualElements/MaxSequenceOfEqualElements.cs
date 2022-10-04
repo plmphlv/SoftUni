@@ -1,4 +1,7 @@
-﻿namespace _7.MaxSequenceOfEqualElements
+﻿using System;
+using System.Linq;
+
+namespace _7.MaxSequenceOfEqualElements
 {
     internal class MaxSequenceOfEqualElements
     {

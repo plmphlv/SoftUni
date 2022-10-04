@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\7.MaxSequenceOfEqualElem
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.pdb
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\7.MaxSequenceOfEqualElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\bin\Debug\net6.0\7.MaxSequenceOfEqualElements.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\7.MaxSequenceOfEqualElements.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\7.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\7.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\7.MaxSequenceOfEqualElements.dll

@@ -1,4 +1,7 @@
-﻿namespace _8.MagicSum
+﻿using System;
+using System.Linq;
+
+namespace _8.MagicSum
 {
     internal class MagicSum
     {

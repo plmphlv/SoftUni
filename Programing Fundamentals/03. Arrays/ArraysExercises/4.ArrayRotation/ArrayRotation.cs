@@ -1,4 +1,7 @@
-﻿namespace _4.ArrayRotation
+﻿using System;
+using System.Linq;
+
+namespace _4.ArrayRotation
 {
     internal class ArrayRotation
     {

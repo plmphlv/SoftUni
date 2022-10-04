@@ -13,3 +13,18 @@ C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\5.TopIntegers\obj\Debug\
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.pdb
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\source\repos\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\ref\5.TopIntegers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\bin\Debug\net6.0\5.TopIntegers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\bin\Debug\net6.0\5.TopIntegers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\bin\Debug\net6.0\5.TopIntegers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\bin\Debug\net6.0\5.TopIntegers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\bin\Debug\net6.0\5.TopIntegers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\refint\5.TopIntegers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\5.TopIntegers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\03. Arrays\ArraysExercises\5.TopIntegers\obj\Debug\net6.0\ref\5.TopIntegers.dll

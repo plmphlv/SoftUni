@@ -1,4 +1,7 @@
-﻿namespace _6.EqualSums
+﻿using System;
+using System.Linq;
+
+namespace _6.EqualSums
 {
     internal class EqualSums
     {

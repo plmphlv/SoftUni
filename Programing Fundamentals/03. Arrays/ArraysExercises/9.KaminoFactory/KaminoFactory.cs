@@ -7,104 +7,95 @@ namespace _9.KaminoFactory
     {
         static void Main(string[] args)
         {
-            int dnaLenght = int.Parse(Console.ReadLine());
+            int dnaLength = int.Parse(Console.ReadLine());
+            int[] bestSample = new int[dnaLength];
+            int bestSampleLength = int.MinValue;
+            int bestSampleIndex = int.MinValue;
+            int bestSampleSum = int.MinValue;
+            int bestSampleStart = -1;
+            int index = 1;
 
-            int[] bestDna = new int[dnaLenght];
-            int bestDnaSum = 0;
-            int bestDnaIndex = 0;
-            int bestSeq = 0;
-            int bestSampleNum = 0;
-
-            string command;
-            int sampleNum = 0;
-
+            string command = string.Empty;
             while ((command = Console.ReadLine()) != "Clone them!")
             {
-                int[] currentDNA = command.Split("!", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+                int[] data = command.Split(new char[] { '!' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
 
-                if (currentDNA.Length != dnaLenght)
-                {
-                    continue;
-                }
+                int currentSampleLength = int.MinValue;
+                int currenSampletIndex = int.MinValue;
+                int currentSubLength = 0;
+                int currentSubIndex = 0;
+                bool isOne = false;
 
-                for (int i = 0; i < currentDNA.Length; i++)
+                for (int i = 0; i < dnaLength; i++)
                 {
-                    switch (currentDNA[i])
+                    if (data[i] == 1 && isOne)
                     {
-                        case 1:
-                        case 0:
-                            break;
-                        default:
-                            continue;
+                        currentSubLength++;
+                    }
+                    else if (data[i] == 1)
+                    {
+                        isOne = true;
+                        currentSubIndex = i;
+                        currentSubLength = 1;
+                    }
+                    else if (data[i] == 0 && isOne)
+                    {
+                        if (currentSubLength > currentSampleLength)
+                        {
+                            currentSampleLength = currentSubLength;
+                            currenSampletIndex = currentSubIndex;
+                        }
+                        isOne = false;
+                        currentSubLength = 0;
+                        currentSubIndex = 0;
                     }
                 }
 
-                sampleNum++;
-
-                int currentLeftMostIndex = -1;
-                int currSeq = 0;
-
-                for (int i = 0; i < currentDNA.Length; i++)
+                if (isOne)
                 {
-                    if (i != currentDNA.Length - 1)
+                    if (currentSubLength > currentSampleLength)
                     {
-                        if (currentDNA[i] == 1 && currentDNA[i + 1] == 1)
+                        currentSampleLength = currentSubLength;
+                        currenSampletIndex = currentSubIndex;
+                    }
+                }
+
+                if (currentSampleLength > bestSampleLength)
+                {
+                    bestSampleLength = currentSampleLength;
+                    bestSampleIndex = currenSampletIndex;
+                    bestSampleSum = data.Sum();
+                    bestSample = data;
+                    bestSampleStart = index;
+                }
+                else if (currentSampleLength == bestSampleLength)
+                {
+                    if (currenSampletIndex < bestSampleIndex)
+                    {
+                        bestSampleLength = currentSampleLength;
+                        bestSampleIndex = currenSampletIndex;
+                        bestSampleSum = data.Sum();
+                        bestSample = data;
+                        bestSampleStart = index;
+                    }
+                    else if (currenSampletIndex == bestSampleIndex)
+                    {
+                        if (data.Sum() > bestSampleSum)
                         {
-                            currSeq += 2;
+                            bestSampleLength = currentSampleLength;
+                            bestSampleIndex = currenSampletIndex;
+                            bestSampleSum = data.Sum();
+                            bestSample = data;
+                            bestSampleStart = index;
                         }
                     }
-                    else if (i == currentDNA.Length - 1)
-                    {
-                        if (currentDNA[i] == currentDNA[i - 1] && currentDNA[i] != 0)
-                        {
-                            currSeq++;
-                            break;
-                        }
-                    }
-
                 }
-
-                for (int i = 0; i < currentDNA.Length - 1; i++)
-                {
-                    if (currentDNA[i] == 1 && currentDNA[i + 1] == 1)
-                    {
-                        currentLeftMostIndex = i;
-                        break;
-                    }
-                }
-                //1!1!0!1
-
-                int currentDnaSum = currentDNA.Sum();
-
-                if (currSeq > bestSeq)
-                {
-                    bestDna = currentDNA;
-                    bestDnaSum = currentDNA.Sum();
-                    bestDnaIndex = currentLeftMostIndex;
-                    bestSeq = currSeq;
-                    bestSampleNum = sampleNum;
-                }
-                else if (currSeq == bestSeq && currentLeftMostIndex < bestDnaIndex)
-                {
-                    bestDna = currentDNA;
-                    bestDnaSum = currentDNA.Sum();
-                    bestDnaIndex = currentLeftMostIndex;
-                    bestSeq = currSeq;
-                    bestSampleNum = sampleNum;
-                }
-                else if (currSeq == bestSeq && currentLeftMostIndex == bestDnaIndex && currentDnaSum > bestDnaSum)
-                {
-                    bestDna = currentDNA;
-                    bestDnaSum = currentDNA.Sum();
-                    bestDnaIndex = currentLeftMostIndex;
-                    bestSeq = currSeq;
-                    bestSampleNum = sampleNum;
-                }
-
+                index++;
             }
 
-            Console.WriteLine($"Best DNA sample {bestSampleNum} with sum: {bestDnaSum}.");
-            Console.WriteLine(String.Join(" ", bestDna));
+            Console.WriteLine($"Best DNA sample {bestSampleStart} with sum: {bestSampleSum}.");
+            Console.WriteLine(string.Join(" ", bestSample));
+
         }
     }
 }

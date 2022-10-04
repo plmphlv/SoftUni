@@ -1,4 +1,7 @@
-﻿namespace _3.Zig_ZagArrays
+﻿using System;
+using System.Linq;
+
+namespace _3.Zig_ZagArrays
 {
     internal class ZigZagArrays
     {
