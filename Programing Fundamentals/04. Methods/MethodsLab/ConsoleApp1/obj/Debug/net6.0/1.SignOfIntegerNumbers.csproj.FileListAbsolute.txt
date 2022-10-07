@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\bin\Debug\net6.0\1.SignOfIntegerNumbers.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\bin\Debug\net6.0\1.SignOfIntegerNumbers.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\bin\Debug\net6.0\1.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\bin\Debug\net6.0\1.SignOfIntegerNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\bin\Debug\net6.0\1.SignOfIntegerNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\refint\1.SignOfIntegerNumbers.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\1.SignOfIntegerNumbers.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\ConsoleApp1\obj\Debug\net6.0\ref\1.SignOfIntegerNumbers.dll

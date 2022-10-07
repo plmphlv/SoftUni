@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\bin\Debug\net6.0\3.Calculations.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\bin\Debug\net6.0\3.Calculations.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\bin\Debug\net6.0\3.Calculations.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\bin\Debug\net6.0\3.Calculations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\bin\Debug\net6.0\3.Calculations.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\refint\3.Calculations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\3.Calculations.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\3.Calculations\obj\Debug\net6.0\ref\3.Calculations.dll

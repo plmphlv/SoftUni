@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\bin\Debug\net6.0\7.RepeatString.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\bin\Debug\net6.0\7.RepeatString.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\bin\Debug\net6.0\7.RepeatString.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\bin\Debug\net6.0\7.RepeatString.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\bin\Debug\net6.0\7.RepeatString.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\refint\7.RepeatString.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\7.RepeatString.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsLab\7.RepeatString\obj\Debug\net6.0\ref\7.RepeatString.dll
