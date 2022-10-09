@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\bin\Debug\net6.0\8.FactorialDivision.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\refint\8.FactorialDivision.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\8.FactorialDivision.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\8.FactorialDivision\obj\Debug\net6.0\ref\8.FactorialDivision.dll

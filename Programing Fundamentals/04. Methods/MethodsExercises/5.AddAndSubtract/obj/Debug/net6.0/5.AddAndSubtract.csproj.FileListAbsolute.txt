@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\bin\Debug\net6.0\5.AddAndSubtract.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\bin\Debug\net6.0\5.AddAndSubtract.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\bin\Debug\net6.0\5.AddAndSubtract.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\bin\Debug\net6.0\5.AddAndSubtract.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\bin\Debug\net6.0\5.AddAndSubtract.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\refint\5.AddAndSubtract.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\5.AddAndSubtract.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\5.AddAndSubtract\obj\Debug\net6.0\ref\5.AddAndSubtract.dll

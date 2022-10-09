@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\bin\Debug\net6.0\2.VowelsCount.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\bin\Debug\net6.0\2.VowelsCount.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\bin\Debug\net6.0\2.VowelsCount.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\bin\Debug\net6.0\2.VowelsCount.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\bin\Debug\net6.0\2.VowelsCount.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\refint\2.VowelsCount.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\2.VowelsCount.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\2.VowelsCount\obj\Debug\net6.0\ref\2.VowelsCount.dll

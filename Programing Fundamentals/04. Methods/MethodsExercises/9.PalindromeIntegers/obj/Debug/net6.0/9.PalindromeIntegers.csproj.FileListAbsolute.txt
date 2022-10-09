@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\bin\Debug\net6.0\9.PalindromeIntegers.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\bin\Debug\net6.0\9.PalindromeIntegers.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\bin\Debug\net6.0\9.PalindromeIntegers.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\bin\Debug\net6.0\9.PalindromeIntegers.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\bin\Debug\net6.0\9.PalindromeIntegers.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\refint\9.PalindromeIntegers.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\9.PalindromeIntegers.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\9.PalindromeIntegers\obj\Debug\net6.0\ref\9.PalindromeIntegers.dll

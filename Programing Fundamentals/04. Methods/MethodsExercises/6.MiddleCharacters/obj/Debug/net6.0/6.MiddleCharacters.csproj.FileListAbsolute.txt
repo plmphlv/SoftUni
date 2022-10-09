@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\bin\Debug\net6.0\6.MiddleCharacters.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\bin\Debug\net6.0\6.MiddleCharacters.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\bin\Debug\net6.0\6.MiddleCharacters.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\bin\Debug\net6.0\6.MiddleCharacters.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\bin\Debug\net6.0\6.MiddleCharacters.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\refint\6.MiddleCharacters.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\6.MiddleCharacters.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsExercises\6.MiddleCharacters\obj\Debug\net6.0\ref\6.MiddleCharacters.dll
