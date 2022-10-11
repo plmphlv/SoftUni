@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
         "projectName": "02.CenterPoint",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
         "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsMoreExercises\\02.CenterPoint\\obj\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
