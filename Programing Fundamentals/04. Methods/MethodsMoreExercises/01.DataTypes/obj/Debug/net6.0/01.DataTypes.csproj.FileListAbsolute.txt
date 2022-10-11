@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\bin\Debug\net6.0\01.DataTypes.exe
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\bin\Debug\net6.0\01.DataTypes.deps.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\bin\Debug\net6.0\01.DataTypes.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\bin\Debug\net6.0\01.DataTypes.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\bin\Debug\net6.0\01.DataTypes.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\refint\01.DataTypes.dll
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.pdb
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\01.DataTypes.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\source\repos\MethodsMoreExercises\01.DataTypes\obj\Debug\net6.0\ref\01.DataTypes.dll
