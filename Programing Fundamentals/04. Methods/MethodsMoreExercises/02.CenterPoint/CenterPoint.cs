@@ -18,9 +18,6 @@ namespace _02.CenterPoint
 
         static void CenterPointFinder(double[] points)
         {
-            double[] centerPoints = new double[2];
-
-
             double first = Math.Sqrt(Math.Pow(points[1], 2) + Math.Pow(points[0], 2));
             double secound = Math.Sqrt(Math.Pow(points[2], 2) + Math.Pow(points[3], 2));
 
@@ -32,7 +29,6 @@ namespace _02.CenterPoint
             {
                 Console.WriteLine($"({points[2]}, {points[3]})");
             }
-
         }
     }
 }

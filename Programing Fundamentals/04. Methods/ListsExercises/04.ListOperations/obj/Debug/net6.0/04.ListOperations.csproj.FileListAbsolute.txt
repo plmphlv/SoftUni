@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\bin\Debug\net6.0\04.ListOperations.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\bin\Debug\net6.0\04.ListOperations.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\bin\Debug\net6.0\04.ListOperations.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\bin\Debug\net6.0\04.ListOperations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\bin\Debug\net6.0\04.ListOperations.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\refint\04.ListOperations.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\04.ListOperations.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\04.ListOperations\obj\Debug\net6.0\ref\04.ListOperations.dll

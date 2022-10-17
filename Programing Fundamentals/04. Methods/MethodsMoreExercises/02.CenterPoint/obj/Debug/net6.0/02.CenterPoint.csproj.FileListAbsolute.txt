@@ -28,3 +28,18 @@ C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\04. 
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.pdb
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.genruntimeconfig.cache
 C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\ref\02.CenterPoint.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\bin\Debug\net6.0\02.CenterPoint.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\refint\02.CenterPoint.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\02.CenterPoint.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\MethodsMoreExercises\02.CenterPoint\obj\Debug\net6.0\ref\02.CenterPoint.dll

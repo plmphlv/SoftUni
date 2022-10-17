@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj",
         "projectName": "6.MiddleCharacters",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\6.MiddleCharacters\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\6.MiddleCharacters\\6.MiddleCharacters.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\6.MiddleCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

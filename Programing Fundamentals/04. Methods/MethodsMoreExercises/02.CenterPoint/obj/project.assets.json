@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\": {}
+    "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
+      "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
       "projectName": "02.CenterPoint",
-      "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
-      "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\obj\\",
+      "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\02.CenterPoint.csproj",
+      "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsMoreExercises\\02.CenterPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

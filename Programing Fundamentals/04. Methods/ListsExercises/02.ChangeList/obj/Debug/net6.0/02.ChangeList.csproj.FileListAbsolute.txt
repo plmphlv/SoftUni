@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\bin\Debug\net6.0\02.ChangeList.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\bin\Debug\net6.0\02.ChangeList.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\bin\Debug\net6.0\02.ChangeList.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\bin\Debug\net6.0\02.ChangeList.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\bin\Debug\net6.0\02.ChangeList.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\refint\02.ChangeList.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\02.ChangeList.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\02.ChangeList\obj\Debug\net6.0\ref\02.ChangeList.dll

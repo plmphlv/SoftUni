@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj",
         "projectName": "7.NxNMatrix",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\source\\repos\\MethodsExercises\\7.NxNMatrix\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\7.NxNMatrix\\7.NxNMatrix.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\04. Methods\\MethodsExercises\\7.NxNMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
