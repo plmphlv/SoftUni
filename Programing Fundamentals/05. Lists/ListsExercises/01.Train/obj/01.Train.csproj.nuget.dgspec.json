@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj": {}
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj": {
+    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj",
+        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj",
         "projectName": "01.Train",
-        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj",
-        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\obj\\",
+        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\01.Train.csproj",
+        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\01.Train\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 
 namespace _08.AnonymousThreat
 {
@@ -27,24 +29,7 @@ namespace _08.AnonymousThreat
                 {
                     int index = int.Parse(cmdArgs[1]);
                     int partitions = int.Parse(cmdArgs[2]);
-                    List<string> subWordsList = new List<string>();
-
-                    string word = words[index];
-                    int subLenght = word.Length / partitions;
-                    int lastSubLenght = word.Length - ((partitions - 1) * subLenght);
-                    
-                    for (int i = 1; i < partitions; i++)
-                    {
-                        int preffLenght=subLenght;
-                        if (i==partitions-1)
-                        {
-                            preffLenght = lastSubLenght;
-                        }
-                        char[] newPart = word.Skip(i*subLenght).Take(preffLenght).ToArray();
-                        subWordsList.Add(string.Join("",newPart));
-                    }
-                    words.RemoveAt(index);
-                    words.InsertRange(index, subWordsList);
+                    DivideWord(ref words, index, partitions);
 
                 }
 
@@ -52,6 +37,27 @@ namespace _08.AnonymousThreat
             }
         }
 
+        static void DivideWord(ref List<string> words,int index,int partitions)
+        {
+            List<string> subWordsList = new List<string>();
+
+            string word = words[index];
+            int subLenght = word.Length / partitions;
+            int lastSubLenght = word.Length - ((partitions - 1) * subLenght);
+
+            for (int i = 1; i < partitions; i++)
+            {
+                int preffLenght = subLenght;
+                if (i == partitions - 1)
+                {
+                    preffLenght = lastSubLenght;
+                }
+                char[] newPart = word.Skip(i * subLenght).Take(preffLenght).ToArray();
+                subWordsList.Add(string.Join("", newPart));
+            }
+            words.RemoveAt(index);
+            words.InsertRange(index, subWordsList);
+        }
         static void FixIndexes(List<string>word, ref int start, ref int end)
         {
             if (end >= word.Count)

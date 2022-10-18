@@ -1,0 +1,15 @@
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\bin\Debug\net6.0\09.PokemonDontGo.exe
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\bin\Debug\net6.0\09.PokemonDontGo.deps.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\bin\Debug\net6.0\09.PokemonDontGo.runtimeconfig.json
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\bin\Debug\net6.0\09.PokemonDontGo.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\bin\Debug\net6.0\09.PokemonDontGo.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.csproj.AssemblyReference.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.AssemblyInfo.cs
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\refint\09.PokemonDontGo.dll
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.pdb
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\09.PokemonDontGo.genruntimeconfig.cache
+C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\09.PokemonDontGo\obj\Debug\net6.0\ref\09.PokemonDontGo.dll
