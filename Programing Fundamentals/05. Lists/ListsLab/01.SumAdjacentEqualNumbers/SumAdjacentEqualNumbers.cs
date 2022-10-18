@@ -8,16 +8,19 @@ namespace _01.SumAdjacentEqualNumbers
     {
         static void Main(string[] args)
         {
-            List<int> myNums = Console.ReadLine().Split().Select(int.Parse).ToList();
+            List<double> myNums = Console.ReadLine().Split().Select(double.Parse).ToList();
 
             for (int i = 0; i < myNums.Count - 1; i++)
             {
+
                 if (myNums[i] == myNums[i + 1])
                 {
                     myNums[i] += myNums[i + 1];
                     myNums.RemoveAt(i + 1);
-                    i--;
+                    i = -1;
                 }
+
+
             }
             Console.WriteLine(String.Join(" ", myNums));
         }

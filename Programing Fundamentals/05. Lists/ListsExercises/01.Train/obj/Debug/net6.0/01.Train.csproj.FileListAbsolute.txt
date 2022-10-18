@@ -13,3 +13,18 @@ C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.pdb
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
 C:\Users\EKAFP-ONE\Documents\GitHub\SoftUni\Programing Fundamentals\04. Methods\ListsExercises\01.Train\obj\Debug\net6.0\ref\01.Train.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\bin\Debug\net6.0\01.Train.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\bin\Debug\net6.0\01.Train.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\bin\Debug\net6.0\01.Train.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\bin\Debug\net6.0\01.Train.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\bin\Debug\net6.0\01.Train.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\refint\01.Train.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\05. Lists\ListsExercises\01.Train\obj\Debug\net6.0\ref\01.Train.dll

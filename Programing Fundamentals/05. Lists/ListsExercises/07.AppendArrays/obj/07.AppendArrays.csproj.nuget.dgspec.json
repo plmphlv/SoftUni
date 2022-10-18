@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj",
         "projectName": "07.AppendArrays",
-        "projectPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj",
-        "packagesPath": "C:\\Users\\EKAFP-ONE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EKAFP-ONE\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\obj\\",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\07.AppendArrays.csproj",
+        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\05. Lists\\ListsExercises\\07.AppendArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EKAFP-ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

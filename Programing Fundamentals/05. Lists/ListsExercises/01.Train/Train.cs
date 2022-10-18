@@ -37,7 +37,7 @@ namespace _01.Train
 
             }
 
-            Console.WriteLine(String.Join(" ",wagons));
+            Console.WriteLine(String.Join(" ", wagons));
         }
     }
 }

@@ -12,11 +12,11 @@ namespace _06.CardsGame
             List<int> deck1 = Console.ReadLine().Split().Select(int.Parse).ToList();
             List<int> deck2 = Console.ReadLine().Split().Select(int.Parse).ToList();
 
-           
+
             while (deck1.Count > 0 && deck2.Count > 0)
             {
 
-                for (int i = 0; i < Math.Min(deck1.Count,deck2.Count); i++)
+                for (int i = 0; i < Math.Min(deck1.Count, deck2.Count); i++)
                 {
                     if (deck1[i] > deck2[i])
                     {

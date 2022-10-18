@@ -36,7 +36,7 @@ namespace _03.MergingLists
                 }
             }
 
-            Console.WriteLine(String.Join(", ", finalList));
+            Console.WriteLine(String.Join(" ", finalList));
         }
     }
 }

@@ -15,15 +15,18 @@ namespace _05.BombNumbers
             {
                 for (int i = 0; i < bombAndPower[1]; i++)
                 {
+                    int bombIndexOfDesctructionLeft = list.IndexOf(bombAndPower[0]) - 1;
 
-                    if ((list.IndexOf(bombAndPower[0])) - 1 - 1 >= 0 && (list.IndexOf(bombAndPower[0])) + 1 < list.Count)
+                    if (bombIndexOfDesctructionLeft >= 0 && bombIndexOfDesctructionLeft < list.Count)
                     {
-                        list.RemoveAt(list.IndexOf(bombAndPower[0]) - 1);
+                        list.RemoveAt(bombIndexOfDesctructionLeft);
                     }
-                    
-                    if ((list.IndexOf(bombAndPower[0])) - 1 >= 0 && (list.IndexOf(bombAndPower[0])) + 1 < list.Count)
+
+                    int bombIndexOfDesctructionRight = list.IndexOf(bombAndPower[0]) + 1;
+
+                    if (bombIndexOfDesctructionRight >= 0 && bombIndexOfDesctructionRight < list.Count)
                     {
-                        list.RemoveAt(list.IndexOf(bombAndPower[0]) + 1);
+                        list.RemoveAt(bombIndexOfDesctructionRight);
                     }
                 }
                 list.RemoveAt(list.IndexOf(bombAndPower[0]));

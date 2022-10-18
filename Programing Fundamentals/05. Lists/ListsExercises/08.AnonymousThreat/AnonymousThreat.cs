@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
+
 
 namespace _08.AnonymousThreat
 {
@@ -10,87 +9,108 @@ namespace _08.AnonymousThreat
     {
         static void Main(string[] args)
         {
-            List<string> words = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToList();
+            List<string> words = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToList();
 
             string command;
-
             while ((command = Console.ReadLine()) != "3:1")
             {
-                string[] cmdArgs = command.Split(" ", StringSplitOptions.RemoveEmptyEntries).ToArray();
+                string[] cmdArgs = command.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                string cmdType = cmdArgs[0];
 
-                if (cmdArgs[0] == "merge")
+
+                switch (cmdType)
                 {
-                    int startIndex = int.Parse(cmdArgs[1]);
-                    int endIndex = int.Parse(cmdArgs[2]);
-                    FixIndexes(words, ref startIndex, ref endIndex);
-                    WordMerge(ref words, startIndex, endIndex);
-                }
-                else if (cmdArgs[0] == "divide")
-                {
-                    int index = int.Parse(cmdArgs[1]);
-                    int partitions = int.Parse(cmdArgs[2]);
-                    DivideWord(ref words, index, partitions);
+                    case "merge":
 
+                        int startIndex = int.Parse(cmdArgs[1]);
+                        int endIndex = int.Parse(cmdArgs[2]);
+
+                        FixInvalidIndexes(words, ref startIndex, ref endIndex);
+                        MergeWords(words, startIndex, endIndex);
+
+                        break;
+
+                    case "divide":
+
+                        int index = int.Parse(cmdArgs[1]);
+                        int partitions = int.Parse(cmdArgs[2]);
+
+                        string word = words[index];
+                        List<string> partitionsList = DivideWord(word, partitions);
+
+                        words.RemoveAt(index);
+                        words.InsertRange(index, partitionsList);
+
+                        break;
                 }
 
-                Console.WriteLine(string.Join(" ", words));
+            }
+
+            Console.WriteLine(String.Join(" ", words));
+        }
+
+        static void FixInvalidIndexes(List<string> words, ref int startIndex, ref int endIndex)
+        {
+            if (startIndex < 0)
+            {
+                startIndex = 0;
+            }
+
+            if (startIndex >= words.Count)
+            {
+                startIndex = words.Count - 1;
+            }
+
+            if (endIndex <= 0)
+            {
+                endIndex = 0;
+            }
+
+            if (endIndex >= words.Count)
+            {
+                endIndex = words.Count - 1;
             }
         }
 
-        static void DivideWord(ref List<string> words,int index,int partitions)
+        static void MergeWords(List<string> words, int startIndex, int endIndex)
         {
-            List<string> subWordsList = new List<string>();
-
-            string word = words[index];
-            int subLenght = word.Length / partitions;
-            int lastSubLenght = word.Length - ((partitions - 1) * subLenght);
-
-            for (int i = 1; i < partitions; i++)
-            {
-                int preffLenght = subLenght;
-                if (i == partitions - 1)
-                {
-                    preffLenght = lastSubLenght;
-                }
-                char[] newPart = word.Skip(i * subLenght).Take(preffLenght).ToArray();
-                subWordsList.Add(string.Join("", newPart));
-            }
-            words.RemoveAt(index);
-            words.InsertRange(index, subWordsList);
-        }
-        static void FixIndexes(List<string>word, ref int start, ref int end)
-        {
-            if (end >= word.Count)
-            {
-                end = word.Count - 1;
-            }
-
-            if (start < 0)
-            {
-                start = 0;
-            }
-            
-            if (end < 0)
-            {
-                end = 0;
-            }
-
-            if (start >= word.Count)
-            {
-                start = word.Count-1;
-            }
-        }
-
-        static void WordMerge(ref List<string> word, int startIndex, int endIndex)
-        {
-            string mergedWord = string.Empty;
+            string mergedText = string.Empty;
             for (int i = startIndex; i <= endIndex; i++)
             {
-                mergedWord += word[startIndex];
-                word.RemoveAt(startIndex);
+                string currWord = words[startIndex];
+                mergedText += currWord;
+                words.RemoveAt(startIndex);
             }
 
-            word.Insert(startIndex, mergedWord);
+            words.Insert(startIndex, mergedText);
+        }
+
+        static List<string> DivideWord(string word, int partitions)
+        {
+            int substringsLength = word.Length / partitions;
+            int lastSubstringLength = substringsLength + word.Length % partitions;
+
+            List<string> partitionsList = new List<string>();
+
+
+            for (int i = 0; i < partitions; i++)
+            {
+                int desiredLength = substringsLength;
+                if (i == partitions - 1)
+                {
+                    desiredLength = lastSubstringLength;
+                }
+
+
+                char[] newPartitionArr = word.Skip(i * substringsLength).Take(desiredLength).ToArray();
+                string newPartition = String.Join("", newPartitionArr);
+
+
+                partitionsList.Add(newPartition);
+            }
+
+            return partitionsList;
         }
     }
+
 }
