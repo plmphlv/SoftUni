@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\bin\Debug\net6.0\03.DeckOfCards.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\bin\Debug\net6.0\03.DeckOfCards.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\bin\Debug\net6.0\03.DeckOfCards.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\bin\Debug\net6.0\03.DeckOfCards.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\bin\Debug\net6.0\03.DeckOfCards.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\refint\03.DeckOfCards.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\03.DeckOfCards.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\03.DeckOfCards\obj\Debug\net6.0\ref\03.DeckOfCards.dll

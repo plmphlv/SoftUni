@@ -1,0 +1,15 @@
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\bin\Debug\net6.0\02.CoffeeLover.exe
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\bin\Debug\net6.0\02.CoffeeLover.deps.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\bin\Debug\net6.0\02.CoffeeLover.runtimeconfig.json
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\bin\Debug\net6.0\02.CoffeeLover.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\bin\Debug\net6.0\02.CoffeeLover.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.csproj.AssemblyReference.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.AssemblyInfoInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.AssemblyInfo.cs
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\refint\02.CoffeeLover.dll
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.pdb
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\02.CoffeeLover.genruntimeconfig.cache
+C:\Users\Plamen Pehlivanov\Documents\GitHub\SoftUni\Programing Fundamentals\FundamentalsMidExam\RegularMidExam\02.CoffeeLover\obj\Debug\net6.0\ref\02.CoffeeLover.dll
