@@ -1,0 +1,15 @@
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\bin\Debug\net6.0\03.Songs.exe
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\bin\Debug\net6.0\03.Songs.deps.json
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\bin\Debug\net6.0\03.Songs.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\bin\Debug\net6.0\03.Songs.dll
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\bin\Debug\net6.0\03.Songs.pdb
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.csproj.AssemblyReference.cache
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.dll
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\refint\03.Songs.dll
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.pdb
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\03.Songs.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\07.ObjectsAndClasses\ObjectsAndClassesLab\03.Songs\obj\Debug\net6.0\ref\03.Songs.dll
