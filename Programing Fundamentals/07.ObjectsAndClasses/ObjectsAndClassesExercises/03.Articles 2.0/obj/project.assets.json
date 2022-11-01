@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\03.Articles2.0.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\03.Articles2.0.csproj",
       "projectName": "03.Articles2.0",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\03.Articles2.0.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\obj\\",
+      "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\03.Articles2.0.csproj",
+      "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\03.Articles 2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

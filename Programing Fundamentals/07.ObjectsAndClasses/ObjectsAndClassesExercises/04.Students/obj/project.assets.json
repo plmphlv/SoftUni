@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\04.Students.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\04.Students.csproj",
       "projectName": "04.Students",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\04.Students.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\obj\\",
+      "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\04.Students.csproj",
+      "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\04.Students\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

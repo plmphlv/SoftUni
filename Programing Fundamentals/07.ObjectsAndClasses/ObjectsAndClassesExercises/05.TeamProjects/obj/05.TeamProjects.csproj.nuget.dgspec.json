@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj": {}
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj": {
+    "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj",
         "projectName": "05.TeamProjects",
-        "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\obj\\",
+        "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\05.TeamProjects.csproj",
+        "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\05.TeamProjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
