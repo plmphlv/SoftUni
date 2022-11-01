@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\FundamentalsMidExam\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
       "projectName": "01.AdvertisementMessage",
-      "projectPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\FundamentalsMidExam\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
-      "packagesPath": "C:\\Users\\Plamen Pehlivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen Pehlivanov\\Documents\\GitHub\\SoftUni\\Programing Fundamentals\\FundamentalsMidExam\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\obj\\",
+      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\01.AdvertisementMessage.csproj",
+      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\01.AdvertisementMessage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen Pehlivanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
