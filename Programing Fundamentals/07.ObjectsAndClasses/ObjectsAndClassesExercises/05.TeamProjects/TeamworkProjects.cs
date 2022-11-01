@@ -35,9 +35,8 @@ namespace _05.TeamProjects
                 }
                 else if(newProjectTeam.CreatorName == teamCreationsCmd[0])
                 {
-                    Console.WriteLine($"");
+                    Console.WriteLine($"{teamCreationsCmd[0]} cannot create another team!");
                 }
-
 
             }
 
