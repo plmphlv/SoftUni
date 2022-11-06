@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj": {}
+    "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj": {
+    "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj",
+        "projectUniqueName": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj",
         "projectName": "07.OrderByAge",
-        "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\obj\\",
+        "projectPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\07.OrderByAge.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\07.ObjectsAndClasses\\ObjectsAndClassesExercises\\07.OrderByAge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

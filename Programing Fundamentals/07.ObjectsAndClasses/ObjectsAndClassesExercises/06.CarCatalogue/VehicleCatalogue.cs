@@ -29,11 +29,22 @@ namespace _06.CarCatalogue
 
         public static void CalculateAvarageHoursePower(Catalogue catalogue)
         {
-            double carAvgHP = catalogue.Cars.Average(x => x.VehicleHorsepower);
-            double truckAvgHP = catalogue.Trucks.Average(x=>x.VehicleHorsepower);
+            double carAvgHP = 0;
 
-            Console.WriteLine($"Cars have average horsepower of {carAvgHP:f2}.");
-            Console.WriteLine($"Trucks have average horsepower of {truckAvgHP:f2}.");
+            if (catalogue.Cars.Count > 0)
+            {
+                carAvgHP = catalogue.Cars.Average(x => x.VehicleHorsepower);
+            }
+
+            double truckAvgHP = 0;
+
+            if (catalogue.Trucks.Count > 0)
+            {
+                truckAvgHP = catalogue.Trucks.Average(x => x.VehicleHorsepower);
+            }
+
+            Console.WriteLine($"Cars have average horsepower of: {carAvgHP:f2}.");
+            Console.WriteLine($"Trucks have average horsepower of: {truckAvgHP:f2}.");
         }
 
         public static void BrowseCatalogue(Catalogue catalogue)

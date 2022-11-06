@@ -26,30 +26,45 @@ namespace _05.TeamProjects
                     .Split("-", StringSplitOptions.RemoveEmptyEntries)
                     .ToArray();
 
-                Team newProjectTeam = teams.FirstOrDefault(x => x.TeamName == teamCreationsCmd[1] || x.CreatorName == teamCreationsCmd[0]);
 
-                if (newProjectTeam == null)
+
+                if (TeamExists(teams, teamCreationsCmd[1]))
                 {
 
-                    newProjectTeam = new Team(teamCreationsCmd[0], teamCreationsCmd[1]);
+                    Console.WriteLine($"Team {teamCreationsCmd[1]} was already created!");
+
+                }
+                else if (AlreadyCreatedATeam(teams, teamCreationsCmd[0]))
+                {
+                    Console.WriteLine($"{teamCreationsCmd[0]} cannot create another team!");
+
+
+                }
+                else
+                {
+
+                    Team newProjectTeam = new Team(teamCreationsCmd[0], teamCreationsCmd[1]);
 
                     teams.Add(newProjectTeam);
 
                     Console.WriteLine($"Team {newProjectTeam.TeamName} has been created by {newProjectTeam.CreatorName}!");
 
                 }
-                else if (newProjectTeam.TeamName == teamCreationsCmd[1])
-                {
-                    Console.WriteLine($"Team {newProjectTeam.TeamName} was already created!");
-                }
-                else if (newProjectTeam.CreatorName == teamCreationsCmd[0])
-                {
-                    Console.WriteLine($"{teamCreationsCmd[0]} cannot create another team!");
-                }
 
             }
 
         }
+
+        public static bool TeamExists(List<Team> teams, string teamName)
+        {
+            return teams.Any(x => x.TeamName == teamName);
+        }
+
+        public static bool AlreadyCreatedATeam(List<Team> teams, string creator)
+        {
+            return teams.Any(t => t.CreatorName == creator);
+        }
+
         public static void MemberSplit(List<Team> teams)
         {
             string command;
@@ -107,10 +122,10 @@ namespace _05.TeamProjects
             foreach (Team team in validTeams)
             {
                 Console.WriteLine($"{team.TeamName}");
-                Console.WriteLine($"-{team.CreatorName}");
+                Console.WriteLine($"- {team.CreatorName}");
                 foreach (string member in team.Members)
                 {
-                    Console.WriteLine($"--{member}");
+                    Console.WriteLine($"-- {member}");
                 }
             }
 
