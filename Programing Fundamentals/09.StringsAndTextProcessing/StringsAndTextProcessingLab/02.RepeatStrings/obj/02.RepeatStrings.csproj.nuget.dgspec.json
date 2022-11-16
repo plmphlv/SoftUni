@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj": {}
+    "C:\\Users\\plame\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj": {
+    "C:\\Users\\plame\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj",
+        "projectUniqueName": "C:\\Users\\plame\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj",
         "projectName": "02.RepeatStrings",
-        "projectPath": "C:\\Users\\Plamen\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\Desktop\\02.RepeatStrings\\obj\\",
+        "projectPath": "C:\\Users\\plame\\Desktop\\02.RepeatStrings\\02.RepeatStrings.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plame\\Desktop\\02.RepeatStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

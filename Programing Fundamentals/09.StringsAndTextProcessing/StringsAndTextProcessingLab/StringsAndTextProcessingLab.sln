@@ -5,9 +5,13 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{5234328D-3572-45F9-B6C0-37119429ED61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RepeatStrings", "..\..\..\..\..\..\Desktop\02.RepeatStrings\02.RepeatStrings.csproj", "{D98717CB-40E7-4678-B373-CFE33AA5CC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.RepeatStrings", "..\..\..\..\..\..\Desktop\02.RepeatStrings\02.RepeatStrings.csproj", "{D98717CB-40E7-4678-B373-CFE33AA5CC27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Substring", "..\..\..\..\..\..\Desktop\03.Substring\03.Substring.csproj", "{AFBC44AC-8AD7-4247-AFC2-73CA7629B9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Substring", "..\..\..\..\..\..\Desktop\03.Substring\03.Substring.csproj", "{AFBC44AC-8AD7-4247-AFC2-73CA7629B9EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.TextFilter", "..\..\..\..\..\..\Desktop\04.TextFilter\04.TextFilter.csproj", "{1E47F859-6839-447F-9024-CB5619037641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DigitsLettersAndOthers", "..\..\..\..\..\..\Desktop\05.DigitsLettersAndOthers\05.DigitsLettersAndOthers.csproj", "{7B71030B-A8C7-40B8-ADE9-A54DBFE58945}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{AFBC44AC-8AD7-4247-AFC2-73CA7629B9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFBC44AC-8AD7-4247-AFC2-73CA7629B9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFBC44AC-8AD7-4247-AFC2-73CA7629B9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E47F859-6839-447F-9024-CB5619037641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E47F859-6839-447F-9024-CB5619037641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E47F859-6839-447F-9024-CB5619037641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E47F859-6839-447F-9024-CB5619037641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B71030B-A8C7-40B8-ADE9-A54DBFE58945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B71030B-A8C7-40B8-ADE9-A54DBFE58945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B71030B-A8C7-40B8-ADE9-A54DBFE58945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B71030B-A8C7-40B8-ADE9-A54DBFE58945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

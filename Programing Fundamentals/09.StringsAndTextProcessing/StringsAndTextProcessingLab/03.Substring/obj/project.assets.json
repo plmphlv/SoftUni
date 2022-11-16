@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\plame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Desktop\\03.Substring\\03.Substring.csproj",
+      "projectUniqueName": "C:\\Users\\plame\\Desktop\\03.Substring\\03.Substring.csproj",
       "projectName": "03.Substring",
-      "projectPath": "C:\\Users\\Plamen\\Desktop\\03.Substring\\03.Substring.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Desktop\\03.Substring\\obj\\",
+      "projectPath": "C:\\Users\\plame\\Desktop\\03.Substring\\03.Substring.csproj",
+      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\plame\\Desktop\\03.Substring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj": {}
+    "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj": {
+    "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj",
+        "projectUniqueName": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj",
         "projectName": "01.ReverseStrings",
-        "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\obj\\",
+        "projectPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\01.ReverseStrings.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\09.StringsAndTextProcessing\\StringsAndTextProcessingLab\\01.ReverseStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
