@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\plame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\06.StudentAcademy.csproj",
+      "projectUniqueName": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\06.StudentAcademy.csproj",
       "projectName": "06.StudentAcademy",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\06.StudentAcademy.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\obj\\",
+      "projectPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\06.StudentAcademy.csproj",
+      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\plame\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\08.AssociativeArrays\\AssociativeArraysExercise\\06.StudentAcademy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -23,8 +23,6 @@ namespace _06.StudentAcademy
 
             }
 
-
-
             foreach (var student in students)
             {
 

@@ -1,0 +1,15 @@
+C:\Users\plame\Desktop\08.LettersChangeNumber\bin\Debug\net6.0\08.LettersChangeNumber.exe
+C:\Users\plame\Desktop\08.LettersChangeNumber\bin\Debug\net6.0\08.LettersChangeNumber.deps.json
+C:\Users\plame\Desktop\08.LettersChangeNumber\bin\Debug\net6.0\08.LettersChangeNumber.runtimeconfig.json
+C:\Users\plame\Desktop\08.LettersChangeNumber\bin\Debug\net6.0\08.LettersChangeNumber.dll
+C:\Users\plame\Desktop\08.LettersChangeNumber\bin\Debug\net6.0\08.LettersChangeNumber.pdb
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.AssemblyInfo.cs
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.dll
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\refint\08.LettersChangeNumber.dll
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.pdb
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\08.LettersChangeNumber.genruntimeconfig.cache
+C:\Users\plame\Desktop\08.LettersChangeNumber\obj\Debug\net6.0\ref\08.LettersChangeNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\plame\Desktop\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.exe
+C:\Users\plame\Desktop\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.deps.json
+C:\Users\plame\Desktop\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.runtimeconfig.json
+C:\Users\plame\Desktop\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.dll
+C:\Users\plame\Desktop\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.pdb
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfo.cs
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.dll
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\refint\04.CaesarCipher.dll
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.pdb
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.genruntimeconfig.cache
+C:\Users\plame\Desktop\04.CaesarCipher\obj\Debug\net6.0\ref\04.CaesarCipher.dll

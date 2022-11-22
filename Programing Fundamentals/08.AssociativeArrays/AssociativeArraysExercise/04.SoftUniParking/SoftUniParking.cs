@@ -25,9 +25,9 @@ namespace _04.SoftUniParking
 
                         string licensePlateNumber = commandArgs[2];
 
-                        if (licensePlates.ContainsValue(licensePlateNumber))
+                        if (licensePlates.ContainsKey(carOwner))
                         {
-                            Console.WriteLine($"ERROR: already registered with plate number {licensePlateNumber}");
+                            Console.WriteLine($"ERROR: already registered with plate number {licensePlates[carOwner]}");
                         }
                         else
                         {

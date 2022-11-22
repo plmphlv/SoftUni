@@ -1,0 +1,15 @@
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.AssemblyInfo.cs
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.exe
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.deps.json
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.runtimeconfig.json
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.dll
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\bin\Debug\net6.0\01.ValidUsernames.pdb
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.dll
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\refint\01.ValidUsernames.dll
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.pdb
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\01.ValidUsernames.genruntimeconfig.cache
+C:\Users\plame\Documents\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\08.AssociativeArrays\StringsAndTextProcessingExercise\01.ValidUsernames\obj\Debug\net6.0\ref\01.ValidUsernames.dll

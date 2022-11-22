@@ -29,7 +29,12 @@ namespace _03.Orders
 
                 }
 
-                drinksQuantity[drink]+=quantity;
+                if (drinksPrice.ContainsKey(drink) && drinksQuantity.ContainsKey(drink))
+                {
+                    drinksPrice[drink] = price;
+                    drinksQuantity[drink] += quantity;
+                }
+
 
             }
 

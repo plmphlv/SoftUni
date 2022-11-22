@@ -7,33 +7,32 @@ namespace _07.CompanyUsers
     {
         static void Main(string[] args)
         {
-            Dictionary<string, List<string>> company = new Dictionary<string, List<string>>();
+            Dictionary<string, List<string>> companies = new Dictionary<string, List<string>>();
 
             string command;
-            while ((command = Console.ReadLine()) != "end")
+            while ((command = Console.ReadLine()) != "End")
             {
 
-                string[] cmdArgs = command.Split(" : ", StringSplitOptions.RemoveEmptyEntries);
+                string[] cmdArgs = command.Split(" -> ", StringSplitOptions.RemoveEmptyEntries);
 
-                string cource = cmdArgs[0];
-                string student = cmdArgs[1];
+                string company = cmdArgs[0];
+                string employeId = cmdArgs[1];
 
-                if (!company.ContainsKey(cource))
+                if (!companies.ContainsKey(company))
                 {
-                    company[cource] = new List<string>();
+                    companies[company] = new List<string>();
                 }
-                if (company[])
+                if (!companies[company].Contains(employeId))
                 {
-
+                    companies[company].Add(employeId);
                 }
-                company[cource].Add(student);
 
             }
 
-            foreach (var item in company)
+            foreach (var item in companies)
             {
 
-                Console.WriteLine($"{item.Key}: {item.Value.Count}");
+                Console.WriteLine($"{item.Key}");
                 foreach (string student in item.Value)
                 {
                     Console.WriteLine($"-- {student}");
