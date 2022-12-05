@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ActivationKeys", "01.ActivationKeys\01.ActivationKeys.csproj", "{8509DAD8-01F5-4D97-AA25-EB674DC845EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EmojiDetector", "02.EmojiDetector\02.EmojiDetector.csproj", "{5DC9772A-9B4C-4372-9BE9-F70EF64D73CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8509DAD8-01F5-4D97-AA25-EB674DC845EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8509DAD8-01F5-4D97-AA25-EB674DC845EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8509DAD8-01F5-4D97-AA25-EB674DC845EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8509DAD8-01F5-4D97-AA25-EB674DC845EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC9772A-9B4C-4372-9BE9-F70EF64D73CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC9772A-9B4C-4372-9BE9-F70EF64D73CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC9772A-9B4C-4372-9BE9-F70EF64D73CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC9772A-9B4C-4372-9BE9-F70EF64D73CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDECF631-CC73-4227-95E6-05204F478130}
+	EndGlobalSection
+EndGlobal
