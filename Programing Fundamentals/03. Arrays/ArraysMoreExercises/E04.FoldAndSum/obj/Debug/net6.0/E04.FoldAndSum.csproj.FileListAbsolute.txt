@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\bin\Debug\net6.0\E04.FoldAndSum.exe
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\bin\Debug\net6.0\E04.FoldAndSum.deps.json
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\bin\Debug\net6.0\E04.FoldAndSum.runtimeconfig.json
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\bin\Debug\net6.0\E04.FoldAndSum.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\bin\Debug\net6.0\E04.FoldAndSum.pdb
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.AssemblyInfo.cs
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\refint\E04.FoldAndSum.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.pdb
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\E04.FoldAndSum.genruntimeconfig.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E04.FoldAndSum\obj\Debug\net6.0\ref\E04.FoldAndSum.dll
