@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\bin\Debug\net6.0\E01.EncryptSortAndPrintArray.exe
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\bin\Debug\net6.0\E01.EncryptSortAndPrintArray.deps.json
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\bin\Debug\net6.0\E01.EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\bin\Debug\net6.0\E01.EncryptSortAndPrintArray.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\bin\Debug\net6.0\E01.EncryptSortAndPrintArray.pdb
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\refint\E01.EncryptSortAndPrintArray.dll
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.pdb
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\E01.EncryptSortAndPrintArray.genruntimeconfig.cache
+C:\Users\plame\source\repos\ArraysMoreExercises\E01.EncryptSortAndPrintArray\obj\Debug\net6.0\ref\E01.EncryptSortAndPrintArray.dll
