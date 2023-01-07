@@ -14,18 +14,21 @@ namespace E03.RecursiveFibonacci
             if (seqEnd < 2)
             {
                 Console.WriteLine(1);
-                Environment.Exit(0);
             }
-
-            fibonacciSeq[0] = 1;
-            fibonacciSeq[1] = 1;
-
-            for (int i = 1; i <= seqEnd; i++)
+            else
             {
-                Fibonacci((i - 1), ref fibonacciSeq);
-            }
 
-            Console.WriteLine(fibonacciSeq[fibonacciSeq.Length - 1]);
+                fibonacciSeq[0] = 1;
+                fibonacciSeq[1] = 1;
+
+                for (int i = 1; i <= seqEnd; i++)
+                {
+                    Fibonacci((i - 1), ref fibonacciSeq);
+                }
+
+                Console.WriteLine(fibonacciSeq[fibonacciSeq.Length - 1]);
+
+            }
 
         }
 
