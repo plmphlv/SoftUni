@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\plame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
       "projectName": "E01.ReverseAString",
-      "projectPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesLab\\E01.ReverseAString\\obj\\",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
+      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E01.ReverseAString\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

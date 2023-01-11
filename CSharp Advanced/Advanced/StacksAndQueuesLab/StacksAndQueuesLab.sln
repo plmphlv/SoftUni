@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01.ReverseAString", "E01.ReverseAString\E01.ReverseAString.csproj", "{8D90C5E9-9BE4-46FB-A13F-14D10836F089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E01.ReverseAString", "E01.ReverseAString\E01.ReverseAString.csproj", "{8D90C5E9-9BE4-46FB-A13F-14D10836F089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02.StackSum", "E02.StackSum\E02.StackSum.csproj", "{7B03AE5E-5A25-4023-891A-200BEB4DB085}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E02.StackSum", "E02.StackSum\E02.StackSum.csproj", "{7B03AE5E-5A25-4023-891A-200BEB4DB085}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E03.SimpleCalculator", "E03.SimpleCalculator\E03.SimpleCalculator.csproj", "{FF0F0A9B-77A4-44B5-87B0-682740A5D561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E03.SimpleCalculator", "E03.SimpleCalculator\E03.SimpleCalculator.csproj", "{FF0F0A9B-77A4-44B5-87B0-682740A5D561}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E04.MatchingBrackets", "04.MatchingBrackets\E04.MatchingBrackets.csproj", "{1B76A45F-CBE4-4C0C-84C3-99453202C2D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E05.PrintEvenNumbers", "E05.PrintEvenNumbers\E05.PrintEvenNumbers.csproj", "{70E7D908-901A-47F7-9295-20BB84237EA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E06.Supermarket", "E06.Supermarket\E06.Supermarket.csproj", "{8E9989AA-B5C2-4C29-9A40-C3D1A439608A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E07.HotPotato", "E07.HotPotato\E07.HotPotato.csproj", "{FE8ADF83-5E5F-4DD1-A8E9-D6FF08D3763E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E08.TrafficJam", "E08.TrafficJam\E08.TrafficJam.csproj", "{D8BFA85E-D2CC-4BBB-B4E2-45EBFEFA0F6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{FF0F0A9B-77A4-44B5-87B0-682740A5D561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF0F0A9B-77A4-44B5-87B0-682740A5D561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF0F0A9B-77A4-44B5-87B0-682740A5D561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B76A45F-CBE4-4C0C-84C3-99453202C2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B76A45F-CBE4-4C0C-84C3-99453202C2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B76A45F-CBE4-4C0C-84C3-99453202C2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B76A45F-CBE4-4C0C-84C3-99453202C2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E7D908-901A-47F7-9295-20BB84237EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E7D908-901A-47F7-9295-20BB84237EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E7D908-901A-47F7-9295-20BB84237EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E7D908-901A-47F7-9295-20BB84237EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9989AA-B5C2-4C29-9A40-C3D1A439608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9989AA-B5C2-4C29-9A40-C3D1A439608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9989AA-B5C2-4C29-9A40-C3D1A439608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9989AA-B5C2-4C29-9A40-C3D1A439608A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8ADF83-5E5F-4DD1-A8E9-D6FF08D3763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8ADF83-5E5F-4DD1-A8E9-D6FF08D3763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8ADF83-5E5F-4DD1-A8E9-D6FF08D3763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8ADF83-5E5F-4DD1-A8E9-D6FF08D3763E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BFA85E-D2CC-4BBB-B4E2-45EBFEFA0F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BFA85E-D2CC-4BBB-B4E2-45EBFEFA0F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BFA85E-D2CC-4BBB-B4E2-45EBFEFA0F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BFA85E-D2CC-4BBB-B4E2-45EBFEFA0F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
