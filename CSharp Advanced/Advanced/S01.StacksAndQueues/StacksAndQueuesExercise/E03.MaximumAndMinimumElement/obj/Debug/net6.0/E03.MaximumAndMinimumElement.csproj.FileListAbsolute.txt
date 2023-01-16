@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\bin\Debug\net6.0\E03.MaximumAndMinimumElement.exe
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\bin\Debug\net6.0\E03.MaximumAndMinimumElement.deps.json
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\bin\Debug\net6.0\E03.MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\bin\Debug\net6.0\E03.MaximumAndMinimumElement.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\bin\Debug\net6.0\E03.MaximumAndMinimumElement.pdb
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\refint\E03.MaximumAndMinimumElement.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.pdb
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\E03.MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\E03.MaximumAndMinimumElement.dll

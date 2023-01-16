@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\bin\Debug\net6.0\E01.BasicStackOperations.exe
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\bin\Debug\net6.0\E01.BasicStackOperations.deps.json
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\bin\Debug\net6.0\E01.BasicStackOperations.runtimeconfig.json
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\bin\Debug\net6.0\E01.BasicStackOperations.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\bin\Debug\net6.0\E01.BasicStackOperations.pdb
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\refint\E01.BasicStackOperations.dll
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.pdb
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\E01.BasicStackOperations.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\StacksAndQueuesExercise\E01.BasicStackOperations\obj\Debug\net6.0\ref\E01.BasicStackOperations.dll
