@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\bin\Debug\net6.0\E05.SquareWithMaximumSum.exe
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\bin\Debug\net6.0\E05.SquareWithMaximumSum.deps.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\bin\Debug\net6.0\E05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\bin\Debug\net6.0\E05.SquareWithMaximumSum.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\bin\Debug\net6.0\E05.SquareWithMaximumSum.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\refint\E05.SquareWithMaximumSum.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\E05.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E05.SquareWithMaximumSum\obj\Debug\net6.0\ref\E05.SquareWithMaximumSum.dll

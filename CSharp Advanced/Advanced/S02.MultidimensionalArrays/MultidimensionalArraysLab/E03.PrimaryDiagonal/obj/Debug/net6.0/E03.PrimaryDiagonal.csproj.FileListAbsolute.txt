@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\bin\Debug\net6.0\E03.PrimaryDiagonal.exe
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\bin\Debug\net6.0\E03.PrimaryDiagonal.deps.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\bin\Debug\net6.0\E03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\bin\Debug\net6.0\E03.PrimaryDiagonal.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\bin\Debug\net6.0\E03.PrimaryDiagonal.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\refint\E03.PrimaryDiagonal.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\E03.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E03.PrimaryDiagonal\obj\Debug\net6.0\ref\E03.PrimaryDiagonal.dll

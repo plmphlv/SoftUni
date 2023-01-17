@@ -13,3 +13,18 @@ C:\Users\plame\source\repos\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net
 C:\Users\plame\source\repos\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.pdb
 C:\Users\plame\source\repos\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.genruntimeconfig.cache
 C:\Users\plame\source\repos\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\ref\E02.PascalTriangle.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\bin\Debug\net6.0\E02.PascalTriangle.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\bin\Debug\net6.0\E02.PascalTriangle.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\bin\Debug\net6.0\E02.PascalTriangle.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\bin\Debug\net6.0\E02.PascalTriangle.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\bin\Debug\net6.0\E02.PascalTriangle.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\refint\E02.PascalTriangle.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\E02.PascalTriangle.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\Programing Fundamentals\03. Arrays\ArraysMoreExercises\E02.PascalTriangle\obj\Debug\net6.0\ref\E02.PascalTriangle.dll

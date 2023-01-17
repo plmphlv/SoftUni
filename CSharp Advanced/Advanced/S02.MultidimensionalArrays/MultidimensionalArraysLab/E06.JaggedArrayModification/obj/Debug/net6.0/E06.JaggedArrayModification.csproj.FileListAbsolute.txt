@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\bin\Debug\net6.0\E06.JaggedArrayModification.exe
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\bin\Debug\net6.0\E06.JaggedArrayModification.deps.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\bin\Debug\net6.0\E06.JaggedArrayModification.runtimeconfig.json
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\bin\Debug\net6.0\E06.JaggedArrayModification.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\bin\Debug\net6.0\E06.JaggedArrayModification.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.AssemblyInfo.cs
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\refint\E06.JaggedArrayModification.dll
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.pdb
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\E06.JaggedArrayModification.genruntimeconfig.cache
+C:\Users\plame\source\repos\MultidimensionalArraysLab\E06.JaggedArrayModification\obj\Debug\net6.0\ref\E06.JaggedArrayModification.dll
