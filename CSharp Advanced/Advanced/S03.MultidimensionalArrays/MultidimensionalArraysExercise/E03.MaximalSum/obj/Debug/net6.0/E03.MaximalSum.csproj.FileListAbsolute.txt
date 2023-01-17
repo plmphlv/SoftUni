@@ -1,0 +1,15 @@
+C:\Users\Plamen\Desktop\E03.MaximalSum\bin\Debug\net6.0\E03.MaximalSum.exe
+C:\Users\Plamen\Desktop\E03.MaximalSum\bin\Debug\net6.0\E03.MaximalSum.deps.json
+C:\Users\Plamen\Desktop\E03.MaximalSum\bin\Debug\net6.0\E03.MaximalSum.runtimeconfig.json
+C:\Users\Plamen\Desktop\E03.MaximalSum\bin\Debug\net6.0\E03.MaximalSum.dll
+C:\Users\Plamen\Desktop\E03.MaximalSum\bin\Debug\net6.0\E03.MaximalSum.pdb
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.csproj.AssemblyReference.cache
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.AssemblyInfo.cs
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.dll
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\refint\E03.MaximalSum.dll
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.pdb
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\E03.MaximalSum.genruntimeconfig.cache
+C:\Users\Plamen\Desktop\E03.MaximalSum\obj\Debug\net6.0\ref\E03.MaximalSum.dll
