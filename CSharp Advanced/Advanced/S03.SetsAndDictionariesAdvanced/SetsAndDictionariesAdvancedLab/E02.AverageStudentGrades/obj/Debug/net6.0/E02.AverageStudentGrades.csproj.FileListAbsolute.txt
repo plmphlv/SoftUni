@@ -1,0 +1,15 @@
+C:\Users\plame\Desktop\E02.AverageStudentGrades\bin\Debug\net6.0\E02.AverageStudentGrades.exe
+C:\Users\plame\Desktop\E02.AverageStudentGrades\bin\Debug\net6.0\E02.AverageStudentGrades.deps.json
+C:\Users\plame\Desktop\E02.AverageStudentGrades\bin\Debug\net6.0\E02.AverageStudentGrades.runtimeconfig.json
+C:\Users\plame\Desktop\E02.AverageStudentGrades\bin\Debug\net6.0\E02.AverageStudentGrades.dll
+C:\Users\plame\Desktop\E02.AverageStudentGrades\bin\Debug\net6.0\E02.AverageStudentGrades.pdb
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.AssemblyInfo.cs
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.dll
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\refint\E02.AverageStudentGrades.dll
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.pdb
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\E02.AverageStudentGrades.genruntimeconfig.cache
+C:\Users\plame\Desktop\E02.AverageStudentGrades\obj\Debug\net6.0\ref\E02.AverageStudentGrades.dll

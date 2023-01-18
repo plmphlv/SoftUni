@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\bin\Debug\net6.0\E06.RecordUniqueNames.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\bin\Debug\net6.0\E06.RecordUniqueNames.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\bin\Debug\net6.0\E06.RecordUniqueNames.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\bin\Debug\net6.0\E06.RecordUniqueNames.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\bin\Debug\net6.0\E06.RecordUniqueNames.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\refint\E06.RecordUniqueNames.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\E06.RecordUniqueNames.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E06.RecordUniqueNames\obj\Debug\net6.0\ref\E06.RecordUniqueNames.dll
