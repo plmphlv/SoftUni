@@ -8,8 +8,8 @@ namespace E08.SoftUniParty
     {
         static void Main(string[] args)
         {
-            HashSet<string> regularList = new HashSet<string>();
-            HashSet<string> vipList = new HashSet<string>();
+            HashSet<string> guestList = new HashSet<string>();
+
 
             string command;
 
@@ -17,15 +17,7 @@ namespace E08.SoftUniParty
             {
                 if (command.Length == 8)
                 {
-
-                    if (char.IsDigit(command[0]))
-                    {
-                        vipList.Add(command);
-                    }
-                    else
-                    {
-                        regularList.Add(command);
-                    }
+                    guestList.Add(command);
                 }
             }
 
@@ -33,30 +25,18 @@ namespace E08.SoftUniParty
             {
                 if (command.Length == 8)
                 {
-
-                    if (char.IsDigit(command[0]))
-                    {
-                        vipList.Remove(command);
-                    }
-                    else
-                    {
-                        regularList.Remove(command);
-                    }
+                    guestList.Remove(command);
                 }
             }
 
 
-            Console.WriteLine(vipList.Count + regularList.Count);
+            guestList = guestList.OrderByDescending(x => char.IsDigit(x.First())).ToHashSet();
 
-            if (vipList.Count > 0)
-            {
-                Console.WriteLine(String.Join(Environment.NewLine, vipList));
-            }
+            Console.WriteLine(guestList.Count);
 
-            if (regularList.Count > 0)
-            {
-                Console.WriteLine(String.Join(Environment.NewLine, regularList));
-            }
+            Console.WriteLine(String.Join(Environment.NewLine, guestList));
+
+
 
 
         }

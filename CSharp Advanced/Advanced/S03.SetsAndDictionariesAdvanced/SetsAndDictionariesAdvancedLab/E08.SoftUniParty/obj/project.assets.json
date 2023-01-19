@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\plame\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\E08.SoftUniParty.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\E08.SoftUniParty.csproj",
       "projectName": "E08.SoftUniParty",
-      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\E08.SoftUniParty.csproj",
-      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\obj\\",
+      "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\E08.SoftUniParty.csproj",
+      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E08.SoftUniParty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

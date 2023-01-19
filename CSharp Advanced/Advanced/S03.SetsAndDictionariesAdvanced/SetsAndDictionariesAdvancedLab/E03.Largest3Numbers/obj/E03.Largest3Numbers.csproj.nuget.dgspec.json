@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj": {}
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj": {
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj",
         "projectName": "E03.Largest3Numbers",
-        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj",
-        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\obj\\",
+        "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\E03.Largest3Numbers.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E03.Largest3Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

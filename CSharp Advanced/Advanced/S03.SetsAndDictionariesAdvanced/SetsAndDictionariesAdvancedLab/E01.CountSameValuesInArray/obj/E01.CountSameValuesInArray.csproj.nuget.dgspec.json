@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj": {}
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj": {
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj",
         "projectName": "E01.CountSameValuesInArray",
-        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj",
-        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\obj\\",
+        "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\E01.CountSameValuesInArray.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.SetsAndDictionariesAdvanced\\SetsAndDictionariesAdvancedLab\\E01.CountSameValuesInArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
