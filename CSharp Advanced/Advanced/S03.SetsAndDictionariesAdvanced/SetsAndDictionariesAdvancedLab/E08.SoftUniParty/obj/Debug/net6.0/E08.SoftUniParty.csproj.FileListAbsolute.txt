@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\bin\Debug\net6.0\E08.SoftUniParty.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\bin\Debug\net6.0\E08.SoftUniParty.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\bin\Debug\net6.0\E08.SoftUniParty.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\bin\Debug\net6.0\E08.SoftUniParty.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\bin\Debug\net6.0\E08.SoftUniParty.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\refint\E08.SoftUniParty.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\E08.SoftUniParty.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E08.SoftUniParty\obj\Debug\net6.0\ref\E08.SoftUniParty.dll

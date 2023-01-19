@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
         "projectName": "E05.LongestIncreasingSubsequence",
-        "projectPath": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
         "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

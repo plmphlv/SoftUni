@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XgQmYfJ70iYV2xlMNc9WpOylj6wV+47bWAfmsk/azV4a28loz/I6LWAb8dc2qArp4qzEuEQkIQ5srnTMc/gBPg==",
+  "dgSpecHash": "5460WyziEp3VB5J2AbqwIgSLN9ku0H52rtKM3KZdE8U++tkJcaX/JxcdHvMioC8/5rQAZKmtNV5JJHrIwXzkGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E05.LongestIncreasingSubsequence\\E05.LongestIncreasingSubsequence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

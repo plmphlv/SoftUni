@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\bin\Debug\net6.0\E07.ParkingLot.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\bin\Debug\net6.0\E07.ParkingLot.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\bin\Debug\net6.0\E07.ParkingLot.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\bin\Debug\net6.0\E07.ParkingLot.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\bin\Debug\net6.0\E07.ParkingLot.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\refint\E07.ParkingLot.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\E07.ParkingLot.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E07.ParkingLot\obj\Debug\net6.0\ref\E07.ParkingLot.dll

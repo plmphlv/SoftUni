@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E03.RecursiveFibonacci\\E03.RecursiveFibonacci.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E03.RecursiveFibonacci\\E03.RecursiveFibonacci.csproj",
       "projectName": "E03.RecursiveFibonacci",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E03.RecursiveFibonacci\\E03.RecursiveFibonacci.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E03.RecursiveFibonacci\\E03.RecursiveFibonacci.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\ArraysMoreExercises\\E03.RecursiveFibonacci\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\Programing Fundamentals\\03. Arrays\\ArraysMoreExercises\\E03.RecursiveFibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

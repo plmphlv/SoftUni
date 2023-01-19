@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\bin\Debug\net6.0\E03.Largest3Numbers.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\bin\Debug\net6.0\E03.Largest3Numbers.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\bin\Debug\net6.0\E03.Largest3Numbers.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\bin\Debug\net6.0\E03.Largest3Numbers.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\bin\Debug\net6.0\E03.Largest3Numbers.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\refint\E03.Largest3Numbers.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\E03.Largest3Numbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedLab\E03.Largest3Numbers\obj\Debug\net6.0\ref\E03.Largest3Numbers.dll
