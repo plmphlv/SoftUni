@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
       "projectName": "E05.PrintEvenNumbers",
-      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

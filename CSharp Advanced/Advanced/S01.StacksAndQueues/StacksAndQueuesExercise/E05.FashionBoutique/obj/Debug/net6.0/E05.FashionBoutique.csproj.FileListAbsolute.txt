@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\bin\Debug\net6.0\E05.FashionBoutique.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\bin\Debug\net6.0\E05.FashionBoutique.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\bin\Debug\net6.0\E05.FashionBoutique.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\bin\Debug\net6.0\E05.FashionBoutique.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\bin\Debug\net6.0\E05.FashionBoutique.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\refint\E05.FashionBoutique.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\E05.FashionBoutique.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E05.FashionBoutique\obj\Debug\net6.0\ref\E05.FashionBoutique.dll

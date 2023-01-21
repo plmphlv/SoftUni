@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QL0iFyGKRkhgOsqwczfaefB21qujgWQsZKvsxqwK+d6+kB0K2SKhn1SrwMpR5oK5stK19KsjCkC6xX4kQTNZAA==",
+  "dgSpecHash": "NsoYidERuZ6IQcYBiuQl2rNEQJwidiXdBULjtaP5oG78JM/MME7Tdn2YMwejBwrPJKXHtvMLTT7HAIYgAfDfAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

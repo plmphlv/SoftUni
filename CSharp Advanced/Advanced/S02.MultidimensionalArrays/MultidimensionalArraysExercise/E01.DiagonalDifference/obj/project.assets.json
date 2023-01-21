@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\plame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\E01.DiagonalDifference.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\E01.DiagonalDifference.csproj",
       "projectName": "E01.DiagonalDifference",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\E01.DiagonalDifference.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S03.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\obj\\",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\E01.DiagonalDifference.csproj",
+      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysExercise\\E01.DiagonalDifference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

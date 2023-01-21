@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\bin\Debug\net6.0\E07.KnightGame.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\bin\Debug\net6.0\E07.KnightGame.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\bin\Debug\net6.0\E07.KnightGame.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\bin\Debug\net6.0\E07.KnightGame.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\bin\Debug\net6.0\E07.KnightGame.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\refint\E07.KnightGame.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\E07.KnightGame.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S02.MultidimensionalArrays\MultidimensionalArraysExercise\E07.KnightGame\obj\Debug\net6.0\ref\E07.KnightGame.dll

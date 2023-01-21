@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj",
         "projectName": "E01.SumMatrixElements",
-        "projectPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E01.SumMatrixElements\\E01.SumMatrixElements.csproj",
         "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E01.SumMatrixElements\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E01.SumMatrixElements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

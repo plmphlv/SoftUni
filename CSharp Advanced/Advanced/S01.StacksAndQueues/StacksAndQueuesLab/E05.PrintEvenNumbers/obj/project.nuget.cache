@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CX6OGWUH0KL61INRD+X3BIh3ub3BDFMjHYeMg9VtnUpHdBOQVFLJ6/McY0cWLVbciCYPlpVSOOKC136aUrkfcg==",
+  "dgSpecHash": "yfKDczO60H2EeE1Oq+od9KPrYfi18ScPNGoFlysIWwJoEccgQ654zg+glNQrI8H7vsKjInLSsJ7pSijApfXBNw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

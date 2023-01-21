@@ -49,8 +49,9 @@ namespace E03.MaximumAndMinimumElement
                         break;
                 }
 
-                Console.WriteLine(string.Join(" ", stack));
             }
+
+            Console.WriteLine(string.Join(", ", stack));
         }
     }
 }

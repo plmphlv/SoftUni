@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj",
         "projectName": "E04.FastFood",
-        "projectPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E04.FastFood\\obj\\",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E04.FastFood\\E04.FastFood.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E04.FastFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

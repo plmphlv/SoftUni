@@ -7,34 +7,45 @@ namespace E04.MatrixShuffling
     {
         static void Main(string[] args)
         {
-            int[] matrixDimmension = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+            int[] dimensions = Console.ReadLine()
+    .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+    .Select(int.Parse)
+    .ToArray();
 
-            int[,] matrix = new int[matrixDimmension[0], matrixDimmension[1]];
+            int rows = dimensions[0];
+            int cols = dimensions[1];
 
-            for (int row = 0; row < matrix.GetLength(0); row++)
+            string[,] matrix = new string[rows, cols];
+
+            for (int row = 0; row < rows; row++)
             {
-                int[] newRow = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+                string[] strings = Console.ReadLine()
+                        .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-                for (int col = 0; col < matrix.GetLength(1); col++)
+                for (int col = 0; col < cols; col++)
                 {
-                    matrix[row, col] = newRow[col];
+                    matrix[row, col] = strings[col];
                 }
             }
 
-            string command;
-
-            while ((command = Console.ReadLine().ToLower()) != "end")
+            while (true)
             {
-                string[] cmdArgs = command.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string command = Console.ReadLine();
 
-                int row1 = int.Parse(cmdArgs[1]);
-                int col1 = int.Parse(cmdArgs[2]);
-                int row2 = int.Parse(cmdArgs[3]);
-                int col2 = int.Parse(cmdArgs[4]);
-
-                if (ValidCommand(matrix, row1, col1, row2, col2, cmdArgs))
+                if (command == "END")
                 {
+                    break;
+                }
 
+                string[] tokens = command.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+
+                if (isValidCommand(rows, cols, tokens))
+                {
+                    string tempValue = matrix[int.Parse(tokens[1]), int.Parse(tokens[2])];
+                    matrix[int.Parse(tokens[1]), int.Parse(tokens[2])] = matrix[int.Parse(tokens[3]), int.Parse(tokens[4])];
+                    matrix[int.Parse(tokens[3]), int.Parse(tokens[4])] = tempValue;
+
+                    PrintMatrix();
                 }
                 else
                 {
@@ -43,34 +54,28 @@ namespace E04.MatrixShuffling
             }
         }
 
-        public static bool ValidCommand(int[,] matrix, int row1, int col1, int row2, int col2, string[] command)
+        bool isValidCommand(int rows, int cols, string[] tokens)
         {
-            bool validLenght = false;
+            return
+                tokens[0] == "swap"
+                && tokens.Length == 5
+                && int.Parse(tokens[1]) >= 0 && int.Parse(tokens[1]) < rows
+                && int.Parse(tokens[2]) >= 0 && int.Parse(tokens[2]) < cols
+                && int.Parse(tokens[3]) >= 0 && int.Parse(tokens[3]) < rows
+                && int.Parse(tokens[4]) >= 0 && int.Parse(tokens[4]) < cols;
+        }
 
-            if (matrix.Length == 5)
+        void PrintMatrix()
+        {
+            for (int row = 0; row < rows; row++)
             {
-                validLenght = true;
-            }
-            else
-            {
-                return false;
-            }
+                for (int col = 0; col < cols; col++)
+                {
+                    Console.Write($"{matrix[row, col]} ");
+                }
 
-            bool validCoordinates = false;
-            if (row1 >= 0 && row1 < matrix.GetLength(0) && col1 >= 0 && col1 < matrix.GetLength(1) &&
-                   row2 >= 0 && row2 < matrix.GetLength(0) && col2 >= 0 && col2 < matrix.GetLength(1))
-            {
-                validCoordinates = true;
+                Console.WriteLine();
             }
-
-            bool validCommand = false;
-
-            if (command[0] == "swap")
-            {
-                validCommand = true;
-            }
-
-            return validLenght && validCoordinates && validCommand;
         }
 
     }

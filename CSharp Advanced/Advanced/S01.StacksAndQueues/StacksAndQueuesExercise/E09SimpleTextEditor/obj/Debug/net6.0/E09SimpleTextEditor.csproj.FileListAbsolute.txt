@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\bin\Debug\net6.0\E09SimpleTextEditor.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\bin\Debug\net6.0\E09SimpleTextEditor.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\bin\Debug\net6.0\E09SimpleTextEditor.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\bin\Debug\net6.0\E09SimpleTextEditor.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\bin\Debug\net6.0\E09SimpleTextEditor.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\refint\E09SimpleTextEditor.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\E09SimpleTextEditor.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E09SimpleTextEditor\obj\Debug\net6.0\ref\E09SimpleTextEditor.dll

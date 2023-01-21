@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj",
         "projectName": "E02.StackSum",
-        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E02.StackSum\\E02.StackSum.csproj",
         "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E02.StackSum\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E02.StackSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

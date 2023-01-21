@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E07.HotPotato\\E07.HotPotato.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E07.HotPotato\\E07.HotPotato.csproj",
       "projectName": "E07.HotPotato",
-      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E07.HotPotato\\E07.HotPotato.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E07.HotPotato\\E07.HotPotato.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E07.HotPotato\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E07.HotPotato\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

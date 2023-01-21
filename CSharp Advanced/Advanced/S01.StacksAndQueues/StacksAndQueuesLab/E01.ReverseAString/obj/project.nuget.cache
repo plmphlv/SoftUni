@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1/setrCJ//0L5cOeDh0c+V1Lj17kiNiaLvqkCEi4tVHRq2XfO/iykGBiRWlNzmOqohfj+uPUMeIUb4q77byhA==",
+  "dgSpecHash": "lIG6HDP16MGAPhHFLArgoHSJo+pv7WXVGmWskHOnz50kpf+vPtRoH9LxsthqVAhBN4E5bCBhhy+bqxIESiKufA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E01.ReverseAString\\E01.ReverseAString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

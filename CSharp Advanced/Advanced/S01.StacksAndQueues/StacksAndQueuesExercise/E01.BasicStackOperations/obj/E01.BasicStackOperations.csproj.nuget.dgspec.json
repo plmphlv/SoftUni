@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
         "projectName": "E01.BasicStackOperations",
-        "projectPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E01.BasicStackOperations\\obj\\",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\E01.BasicStackOperations.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E01.BasicStackOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

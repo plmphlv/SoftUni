@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj",
         "projectName": "E05.FashionBoutique",
-        "projectPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\source\\repos\\StacksAndQueuesExercise\\E05.FashionBoutique\\obj\\",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E05.FashionBoutique\\E05.FashionBoutique.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesExercise\\E05.FashionBoutique\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

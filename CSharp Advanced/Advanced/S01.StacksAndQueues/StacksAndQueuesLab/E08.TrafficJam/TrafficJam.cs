@@ -19,8 +19,13 @@ namespace E08.TrafficJam
             {
                 if (command == "green")
                 {
-                    while (cars.Count > 0)
+                    for (int i = 0; i < carsAlowedToPass; i++)
                     {
+                        if (cars.Count == 0)
+                        {
+                            break;
+                        }
+
                         Console.WriteLine($"{cars.Dequeue()} passed!");
                         carsPassed++;
                     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\E03.PrimaryDiagonal.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\E03.PrimaryDiagonal.csproj",
       "projectName": "E03.PrimaryDiagonal",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\E03.PrimaryDiagonal.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\E03.PrimaryDiagonal.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E03.PrimaryDiagonal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

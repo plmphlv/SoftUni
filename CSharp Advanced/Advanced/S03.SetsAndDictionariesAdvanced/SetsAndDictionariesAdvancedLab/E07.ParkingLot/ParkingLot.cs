@@ -25,8 +25,14 @@ namespace E07.ParkingLot
                         break;
                 }
             }
-
-            Console.WriteLine(String.Join(Environment.NewLine, cars));
+            if (cars.Count == 0)
+            {
+                Console.WriteLine("Parking Lot is Empty");
+            }
+            else
+            {
+                Console.WriteLine(String.Join(Environment.NewLine, cars));
+            }
         }
     }
 }

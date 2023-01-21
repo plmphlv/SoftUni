@@ -13,31 +13,22 @@ namespace E04.FastFood
             Queue<int> ordersRN = new(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray());
 
             int biggestOrder = int.MinValue;
-            bool terminateLoop = false;
 
-            while (!terminateLoop)
+            Console.WriteLine(ordersRN.Max());
+
+            while (ordersRN.Any())
             {
-                int currentOrder = ordersRN.Dequeue();
+                totalFood -= ordersRN.Peek();
 
-                if (totalFood - currentOrder >= 0)
+                if (totalFood < 0)
                 {
-                    totalFood -= currentOrder;
-                    if (currentOrder > biggestOrder)
-                    {
-                        biggestOrder = currentOrder;
-                    }
+                    break;
                 }
 
-
-                if (totalFood <= 0 || ordersRN.Count <= 0)
-                {
-                    terminateLoop = true;
-                }
+                ordersRN.Dequeue();
             }
 
-            Console.WriteLine(biggestOrder);
-
-            string finalOutput = (ordersRN.Count == 0) ? "Orders complete" : $"Orders left: {ordersRN.Count}";
+            string finalOutput = (ordersRN.Count == 0) ? "Orders complete" : $"Orders left: {string.Join(" ", ordersRN)}";
 
             Console.WriteLine(finalOutput);
         }

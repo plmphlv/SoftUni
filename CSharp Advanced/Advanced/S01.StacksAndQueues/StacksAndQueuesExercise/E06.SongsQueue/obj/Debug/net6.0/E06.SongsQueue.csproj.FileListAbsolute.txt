@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\bin\Debug\net6.0\E06.SongsQueue.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\bin\Debug\net6.0\E06.SongsQueue.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\bin\Debug\net6.0\E06.SongsQueue.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\bin\Debug\net6.0\E06.SongsQueue.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\bin\Debug\net6.0\E06.SongsQueue.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\refint\E06.SongsQueue.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\E06.SongsQueue.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S01.StacksAndQueues\StacksAndQueuesExercise\E06.SongsQueue\obj\Debug\net6.0\ref\E06.SongsQueue.dll

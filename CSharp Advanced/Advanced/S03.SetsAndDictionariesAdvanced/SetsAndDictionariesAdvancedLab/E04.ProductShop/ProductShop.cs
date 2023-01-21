@@ -16,29 +16,32 @@ namespace E04.ProductShop
             {
                 string[] strings = command.Split(", ", StringSplitOptions.RemoveEmptyEntries);
 
-                if (!shops.ContainsKey(strings[0]))
-                {
-                    shops[strings[0]] = new Dictionary<string, double>();
+                string shop = strings[0];
+                string product = strings[1];
+                double price = double.Parse(strings[2]);
 
+                if (!shops.ContainsKey(shop))
+                {
+                    shops.Add(shop, new Dictionary<string, double>());
                 }
 
-                if (!shops[strings[0]].ContainsKey(strings[1]))
+                if (!shops[shop].ContainsKey(product))
                 {
-                    shops[strings[0]][strings[1]] = 0;
+                    shops[shop].Add(product, 0);
                 }
 
-                shops[strings[0]][strings[1]] = double.Parse(strings[2]);
+                shops[shop][product] = price;
             }
 
             shops = shops.OrderBy(s => s.Key).ToDictionary(s => s.Key, s => s.Value);
 
-            foreach (var s in shops)
+            foreach (var shop in shops)
             {
-                Console.WriteLine($"{s.Key}->");
+                Console.WriteLine($"{shop.Key}->");
 
-                foreach (var v in s.Value)
+                foreach (var product in shop.Value)
                 {
-                    Console.WriteLine($"Product: {v.Key}, Price: {v.Value:f1}");
+                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value}");
                 }
             }
         }

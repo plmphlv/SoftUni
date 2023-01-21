@@ -37,6 +37,11 @@ namespace E04.SymbolInMatrix
                         break;
                     }
                 }
+
+                if (foud)
+                {
+                    break;
+                }
             }
 
             if (foud)

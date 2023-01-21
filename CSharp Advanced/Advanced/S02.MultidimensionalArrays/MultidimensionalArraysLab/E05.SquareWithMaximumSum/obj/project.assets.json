@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\E05.SquareWithMaximumSum.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\E05.SquareWithMaximumSum.csproj",
       "projectName": "E05.SquareWithMaximumSum",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\E05.SquareWithMaximumSum.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\E05.SquareWithMaximumSum.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E05.SquareWithMaximumSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,7 +10,7 @@ namespace E02.AverageStudentGrades
         {
             int loops = int.Parse(Console.ReadLine());
 
-            Dictionary<string, List<double>> studentRecord = new Dictionary<string, List<double>>();
+            Dictionary<string, List<decimal>> studentRecord = new Dictionary<string, List<decimal>>();
 
             for (int i = 0; i < loops; i++)
             {
@@ -18,15 +18,15 @@ namespace E02.AverageStudentGrades
 
                 if (!studentRecord.ContainsKey(student[0]))
                 {
-                    studentRecord[student[0]] = new List<double>();
+                    studentRecord[student[0]] = new List<decimal>();
                 }
-                studentRecord[student[0]].Add(double.Parse(student[1]));
+                studentRecord[student[0]].Add(decimal.Parse(student[1]));
             }
 
 
             foreach (var item in studentRecord)
             {
-                Console.WriteLine($"{item.Key} -> {String.Join(" ", item.Value.Select(x => $"{x:f2}"))}  (avg: {item.Value.Average():f2})");
+                Console.WriteLine($"{item.Key} -> {String.Join(" ", item.Value.Select(x => $"{x:f2}"))} (avg: {item.Value.Average():f2})");
             }
         }
     }

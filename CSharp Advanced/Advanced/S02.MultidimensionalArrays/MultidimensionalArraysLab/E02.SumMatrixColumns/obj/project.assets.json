@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\E02.SumMatrixColumns.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\E02.SumMatrixColumns.csproj",
       "projectName": "E02.SumMatrixColumns",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\E02.SumMatrixColumns.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\E02.SumMatrixColumns.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S02.MultidimensionalArrays\\MultidimensionalArraysLab\\E02.SumMatrixColumns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
