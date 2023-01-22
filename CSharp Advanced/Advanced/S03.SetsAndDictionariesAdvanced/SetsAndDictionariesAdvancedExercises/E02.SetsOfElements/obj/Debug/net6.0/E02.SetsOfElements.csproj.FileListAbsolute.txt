@@ -1,0 +1,30 @@
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.exe
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.deps.json
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.runtimeconfig.json
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.pdb
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.AssemblyInfo.cs
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\refint\E02.SetsOfElements.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.pdb
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.genruntimeconfig.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\ref\E02.SetsOfElements.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\bin\Debug\net6.0\E02.SetsOfElements.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\refint\E02.SetsOfElements.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\E02.SetsOfElements.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S03.SetsAndDictionariesAdvanced\SetsAndDictionariesAdvancedExercises\E02.SetsOfElements\obj\Debug\net6.0\ref\E02.SetsOfElements.dll

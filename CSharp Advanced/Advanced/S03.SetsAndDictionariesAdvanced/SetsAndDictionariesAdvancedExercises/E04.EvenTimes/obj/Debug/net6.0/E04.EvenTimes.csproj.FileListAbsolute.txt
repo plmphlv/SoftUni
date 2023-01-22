@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\bin\Debug\net6.0\E04.EvenTimes.exe
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\bin\Debug\net6.0\E04.EvenTimes.deps.json
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\bin\Debug\net6.0\E04.EvenTimes.runtimeconfig.json
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\bin\Debug\net6.0\E04.EvenTimes.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\bin\Debug\net6.0\E04.EvenTimes.pdb
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.AssemblyInfo.cs
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\refint\E04.EvenTimes.dll
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.pdb
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\E04.EvenTimes.genruntimeconfig.cache
+C:\Users\plame\source\repos\SetsAndDictionariesAdvancedExercises\E04.EvenTimes\obj\Debug\net6.0\ref\E04.EvenTimes.dll
