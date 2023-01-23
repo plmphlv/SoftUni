@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1CADc8w2YXkSEhHUxhTpDOwt+WBxSCL2HwdJ+U5Dj5/zDVFGg/5Xx1JciWghVOuRszKWyX6sEjKwby1GCOFGIg==",
+  "dgSpecHash": "S260Lsc0oyDEexXBLP9jSJodWmEGUyjJYJZAaPS1L0RsiGysh8foYeY57xsfIUQ0rZA5NYurnRv38c8eYwqj1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\ExtractSpecialBytes\\ExtractSpecialBytes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

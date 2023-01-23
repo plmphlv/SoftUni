@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MIVR89eZz1IFcwyFrBmRhw38QrU09a0mXgDFqGS5o6sl4N+ixDIxjyAuAdT7B33Xep3g6vrD10F7C2ZdGjOD4w==",
+  "dgSpecHash": "jYgHI0vFhpQlbB9WAT+g5efYX2OXpnX4e3D3uhHHOyFEsW/q9eqGux6fMhvBb1lQ6jLPmUfJn28zLvmURPmp5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\WordCount\\WordCount.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\WordCount\\WordCount.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\bin\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\refint\SplitMergeBinaryFile.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\SplitMergeBinaryFile.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\SplitMergeBinaryFile\obj\Debug\net6.0\ref\SplitMergeBinaryFile.dll

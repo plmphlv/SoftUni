@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll

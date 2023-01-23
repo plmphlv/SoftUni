@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll

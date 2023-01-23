@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJZ4Njc+TlsmtEAOZi1MJqh34x0jN5T7ghoVFD2RIpF1HkfxC2Y0OgIJYZBRx4qr0ZVW33bjooNqUw+QlbevTg==",
+  "dgSpecHash": "QC22QYrib/qidVFBWDfTJhuZXqc6IXVTtmbJgXIFCO1B4BCp0MUcYCOEf7OtCbwrECRgO/JabFaTnaiFjUlV6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\LineNumbers\\LineNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

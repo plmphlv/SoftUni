@@ -27,7 +27,7 @@
             reader = new StreamReader(textFilePath);
             using (reader)
             {
-                string[] splitters = { " ", ",", ", ", ".", "", ", ", "-", "!", "?!", "...", "?", "\r\n" };
+                string[] splitters = { " ", ",", ", ", ".", "...", "", ", ", "-", "!", "?!", "…", "?", "\r\n" };
                 string[] elements = reader.ReadToEnd().ToLower().Split(splitters, StringSplitOptions.RemoveEmptyEntries);
 
                 StreamWriter writer = new StreamWriter(outputFilePath);

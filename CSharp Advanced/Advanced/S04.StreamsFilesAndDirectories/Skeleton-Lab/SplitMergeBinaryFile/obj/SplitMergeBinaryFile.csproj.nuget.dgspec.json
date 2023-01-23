@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {}
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
         "projectName": "SplitMergeBinaryFile",
-        "projectPath": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
-        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plame\\Desktop\\Skeleton-Lab\\SplitMergeBinaryFile\\obj\\",
+        "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S04.StreamsFilesAndDirectories\\Skeleton-Lab\\SplitMergeBinaryFile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

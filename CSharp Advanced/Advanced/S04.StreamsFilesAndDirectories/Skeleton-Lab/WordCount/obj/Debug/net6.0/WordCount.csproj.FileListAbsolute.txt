@@ -13,3 +13,18 @@ C:\Users\plame\Desktop\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.
 C:\Users\plame\Desktop\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
 C:\Users\plame\Desktop\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
 C:\Users\plame\Desktop\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll

@@ -1,15 +1,15 @@
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.AssemblyReference.cache
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
-C:\Users\plame\Desktop\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S04.StreamsFilesAndDirectories\Skeleton-Lab\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll
