@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\bin\Debug\net6.0\E02.CountUppercaseWords.exe
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\bin\Debug\net6.0\E02.CountUppercaseWords.deps.json
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\bin\Debug\net6.0\E02.CountUppercaseWords.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\bin\Debug\net6.0\E02.CountUppercaseWords.dll
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\bin\Debug\net6.0\E02.CountUppercaseWords.pdb
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.dll
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\refint\E02.CountUppercaseWords.dll
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.pdb
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\E02.CountUppercaseWords.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgrammingLab\E02.CountUppercaseWords\obj\Debug\net6.0\ref\E02.CountUppercaseWords.dll

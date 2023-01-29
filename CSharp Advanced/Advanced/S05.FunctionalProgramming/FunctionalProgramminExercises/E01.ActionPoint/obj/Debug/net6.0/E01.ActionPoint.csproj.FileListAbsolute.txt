@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\bin\Debug\net6.0\E01.ActionPoint.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\bin\Debug\net6.0\E01.ActionPoint.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\bin\Debug\net6.0\E01.ActionPoint.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\bin\Debug\net6.0\E01.ActionPoint.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\bin\Debug\net6.0\E01.ActionPoint.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\refint\E01.ActionPoint.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\E01.ActionPoint.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E01.ActionPoint\obj\Debug\net6.0\ref\E01.ActionPoint.dll

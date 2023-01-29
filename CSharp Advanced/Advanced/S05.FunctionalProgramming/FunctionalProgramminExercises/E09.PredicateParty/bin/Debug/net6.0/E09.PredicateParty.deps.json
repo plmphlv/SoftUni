@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "E09.PredicateParty/1.0.0": {
+        "runtime": {
+          "E09.PredicateParty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E09.PredicateParty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

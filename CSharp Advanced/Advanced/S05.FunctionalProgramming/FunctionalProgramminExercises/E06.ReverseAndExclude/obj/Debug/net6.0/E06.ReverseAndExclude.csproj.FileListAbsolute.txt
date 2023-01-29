@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\bin\Debug\net6.0\E06.ReverseAndExclude.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\bin\Debug\net6.0\E06.ReverseAndExclude.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\bin\Debug\net6.0\E06.ReverseAndExclude.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\bin\Debug\net6.0\E06.ReverseAndExclude.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\bin\Debug\net6.0\E06.ReverseAndExclude.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\refint\E06.ReverseAndExclude.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\E06.ReverseAndExclude.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E06.ReverseAndExclude\obj\Debug\net6.0\ref\E06.ReverseAndExclude.dll

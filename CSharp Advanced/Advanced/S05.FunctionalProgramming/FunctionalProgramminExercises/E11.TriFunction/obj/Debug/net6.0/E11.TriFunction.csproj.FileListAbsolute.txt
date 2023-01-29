@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\bin\Debug\net6.0\E11.TriFunction.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\bin\Debug\net6.0\E11.TriFunction.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\bin\Debug\net6.0\E11.TriFunction.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\bin\Debug\net6.0\E11.TriFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\bin\Debug\net6.0\E11.TriFunction.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\refint\E11.TriFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\E11.TriFunction.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E11.TriFunction\obj\Debug\net6.0\ref\E11.TriFunction.dll

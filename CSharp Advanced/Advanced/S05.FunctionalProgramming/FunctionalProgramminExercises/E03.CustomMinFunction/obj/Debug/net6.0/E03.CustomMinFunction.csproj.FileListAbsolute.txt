@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\bin\Debug\net6.0\E03.CustomMinFunction.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\bin\Debug\net6.0\E03.CustomMinFunction.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\bin\Debug\net6.0\E03.CustomMinFunction.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\bin\Debug\net6.0\E03.CustomMinFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\bin\Debug\net6.0\E03.CustomMinFunction.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\refint\E03.CustomMinFunction.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\E03.CustomMinFunction.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E03.CustomMinFunction\obj\Debug\net6.0\ref\E03.CustomMinFunction.dll

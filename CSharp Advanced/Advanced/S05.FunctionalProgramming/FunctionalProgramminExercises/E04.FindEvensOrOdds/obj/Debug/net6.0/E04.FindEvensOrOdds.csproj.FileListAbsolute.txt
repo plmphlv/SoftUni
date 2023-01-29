@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\bin\Debug\net6.0\E04.FindEvensOrOdds.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\bin\Debug\net6.0\E04.FindEvensOrOdds.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\bin\Debug\net6.0\E04.FindEvensOrOdds.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\bin\Debug\net6.0\E04.FindEvensOrOdds.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\bin\Debug\net6.0\E04.FindEvensOrOdds.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\refint\E04.FindEvensOrOdds.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\E04.FindEvensOrOdds.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E04.FindEvensOrOdds\obj\Debug\net6.0\ref\E04.FindEvensOrOdds.dll

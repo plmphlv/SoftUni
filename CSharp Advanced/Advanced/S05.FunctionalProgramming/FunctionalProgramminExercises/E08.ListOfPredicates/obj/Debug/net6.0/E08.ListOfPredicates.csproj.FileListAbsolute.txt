@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\bin\Debug\net6.0\E08.ListOfPredicates.exe
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\bin\Debug\net6.0\E08.ListOfPredicates.deps.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\bin\Debug\net6.0\E08.ListOfPredicates.runtimeconfig.json
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\bin\Debug\net6.0\E08.ListOfPredicates.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\bin\Debug\net6.0\E08.ListOfPredicates.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.AssemblyInfo.cs
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\refint\E08.ListOfPredicates.dll
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.pdb
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\E08.ListOfPredicates.genruntimeconfig.cache
+C:\Users\plame\source\repos\FunctionalProgramminExercises\E08.ListOfPredicates\obj\Debug\net6.0\ref\E08.ListOfPredicates.dll
