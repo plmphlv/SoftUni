@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\bin\Debug\net6.0\E04.CarEngineAndTires.exe
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\bin\Debug\net6.0\E04.CarEngineAndTires.deps.json
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\bin\Debug\net6.0\E04.CarEngineAndTires.runtimeconfig.json
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\bin\Debug\net6.0\E04.CarEngineAndTires.dll
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\bin\Debug\net6.0\E04.CarEngineAndTires.pdb
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.AssemblyInfo.cs
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.dll
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\refint\E04.CarEngineAndTires.dll
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.pdb
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\E04.CarEngineAndTires.genruntimeconfig.cache
+C:\Users\plame\source\repos\DefiningClassesLab\E04.CarEngineAndTires\obj\Debug\net6.0\ref\E04.CarEngineAndTires.dll
