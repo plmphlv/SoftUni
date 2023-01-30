@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj": {}
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj": {
+    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
         "projectName": "E05.PrintEvenNumbers",
-        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
-        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\obj\\",
+        "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\E05.PrintEvenNumbers.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S01.StacksAndQueues\\StacksAndQueuesLab\\E05.PrintEvenNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
