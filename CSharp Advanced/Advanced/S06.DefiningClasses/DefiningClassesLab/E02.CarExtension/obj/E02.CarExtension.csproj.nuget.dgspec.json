@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj",
         "projectName": "E02.CarExtension",
-        "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\obj\\",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\E02.CarExtension.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E02.CarExtension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

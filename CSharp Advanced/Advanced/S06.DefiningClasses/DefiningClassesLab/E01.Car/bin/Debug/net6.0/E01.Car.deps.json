@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "CarManufacturer/1.0.0": {
+      "E01.Car/1.0.0": {
         "runtime": {
-          "CarManufacturer.dll": {}
+          "E01.Car.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CarManufacturer/1.0.0": {
+    "E01.Car/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
