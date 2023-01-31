@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\bin\Debug\net6.0\E05.SpecialCars.exe
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\bin\Debug\net6.0\E05.SpecialCars.deps.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\bin\Debug\net6.0\E05.SpecialCars.runtimeconfig.json
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\bin\Debug\net6.0\E05.SpecialCars.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\bin\Debug\net6.0\E05.SpecialCars.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.AssemblyInfo.cs
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\refint\E05.SpecialCars.dll
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.pdb
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\E05.SpecialCars.genruntimeconfig.cache
+C:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesLab\E05.SpecialCars\obj\Debug\net6.0\ref\E05.SpecialCars.dll

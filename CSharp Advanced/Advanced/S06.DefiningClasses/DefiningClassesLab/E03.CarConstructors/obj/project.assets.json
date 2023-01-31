@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\plame\\.nuget\\packages\\": {}
+    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\DefiningClassesLab\\E03.CarConstructors\\E03.CarConstructors.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E03.CarConstructors\\E03.CarConstructors.csproj",
       "projectName": "E03.CarConstructors",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\DefiningClassesLab\\E03.CarConstructors\\E03.CarConstructors.csproj",
-      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\DefiningClassesLab\\E03.CarConstructors\\obj\\",
+      "projectPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E03.CarConstructors\\E03.CarConstructors.csproj",
+      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesLab\\E03.CarConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
