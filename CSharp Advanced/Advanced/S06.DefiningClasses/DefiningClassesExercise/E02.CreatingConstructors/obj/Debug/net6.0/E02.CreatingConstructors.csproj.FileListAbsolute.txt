@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\bin\Debug\net6.0\E02.CreatingConstructors.exe
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\bin\Debug\net6.0\E02.CreatingConstructors.deps.json
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\bin\Debug\net6.0\E02.CreatingConstructors.runtimeconfig.json
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\bin\Debug\net6.0\E02.CreatingConstructors.dll
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\bin\Debug\net6.0\E02.CreatingConstructors.pdb
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.AssemblyInfo.cs
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.dll
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\refint\E02.CreatingConstructors.dll
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.pdb
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\E02.CreatingConstructors.genruntimeconfig.cache
+C:\Users\plame\source\repos\DefiningClasses\E02.CreatingConstructors\obj\Debug\net6.0\ref\E02.CreatingConstructors.dll

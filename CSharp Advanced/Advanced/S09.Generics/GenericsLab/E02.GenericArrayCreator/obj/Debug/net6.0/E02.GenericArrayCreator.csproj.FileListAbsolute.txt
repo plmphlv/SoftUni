@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\bin\Debug\net6.0\E02.GenericArrayCreator.exe
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\bin\Debug\net6.0\E02.GenericArrayCreator.deps.json
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\bin\Debug\net6.0\E02.GenericArrayCreator.runtimeconfig.json
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\bin\Debug\net6.0\E02.GenericArrayCreator.dll
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\bin\Debug\net6.0\E02.GenericArrayCreator.pdb
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.AssemblyInfo.cs
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.dll
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\refint\E02.GenericArrayCreator.dll
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.pdb
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\E02.GenericArrayCreator.genruntimeconfig.cache
+C:\Users\plame\source\repos\GenericsLab\E02.GenericArrayCreator\obj\Debug\net6.0\ref\E02.GenericArrayCreator.dll

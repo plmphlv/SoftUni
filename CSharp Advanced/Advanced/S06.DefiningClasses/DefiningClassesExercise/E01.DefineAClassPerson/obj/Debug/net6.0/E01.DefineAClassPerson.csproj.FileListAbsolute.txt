@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\bin\Debug\net6.0\E01.DefineAClassPerson.exe
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\bin\Debug\net6.0\E01.DefineAClassPerson.deps.json
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\bin\Debug\net6.0\E01.DefineAClassPerson.runtimeconfig.json
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\bin\Debug\net6.0\E01.DefineAClassPerson.dll
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\bin\Debug\net6.0\E01.DefineAClassPerson.pdb
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.AssemblyInfo.cs
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.dll
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\refint\E01.DefineAClassPerson.dll
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.pdb
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\E01.DefineAClassPerson.genruntimeconfig.cache
+C:\Users\plame\source\repos\DefiningClasses\E01.DefineAClassPerson\obj\Debug\net6.0\ref\E01.DefineAClassPerson.dll
