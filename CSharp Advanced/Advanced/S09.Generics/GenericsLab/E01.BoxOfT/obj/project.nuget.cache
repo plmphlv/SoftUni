@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2gUWy+kxfAzpq4gg++AbnZ0wQPhqagSSoJ3BgnaBLUUhxTJqOUCnEF24Oz5xxtdpe9F4xTK0NLyjZ2MhzSS8g==",
+  "dgSpecHash": "dlFX+DGhsAXwXrYFfHeBh9p8uUnshEO28QNtYayHqZLLB48dIBKh//v9efgLaj94hAM8PsbYfd5kKQtD7X8T9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\plame\\source\\repos\\GenericsLab\\E01.BoxOfT\\E01.BoxOfT.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E01.BoxOfT\\E01.BoxOfT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E03.OldestFamilyMember\\E03.OldestFamilyMember.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E03.OldestFamilyMember\\E03.OldestFamilyMember.csproj",
       "projectName": "E03.OldestFamilyMember",
-      "projectPath": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E03.OldestFamilyMember\\E03.OldestFamilyMember.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E03.OldestFamilyMember\\E03.OldestFamilyMember.csproj",
       "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E03.OldestFamilyMember\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E03.OldestFamilyMember\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj",
         "projectName": "E02.CreatingConstructors",
-        "projectPath": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E02.CreatingConstructors\\E02.CreatingConstructors.csproj",
         "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plame\\source\\repos\\DefiningClasses\\E02.CreatingConstructors\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S06.DefiningClasses\\DefiningClassesExercise\\E02.CreatingConstructors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

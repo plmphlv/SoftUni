@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\bin\Debug\net6.0\E06.SpeedRacing.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\bin\Debug\net6.0\E06.SpeedRacing.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\bin\Debug\net6.0\E06.SpeedRacing.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\bin\Debug\net6.0\E06.SpeedRacing.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\bin\Debug\net6.0\E06.SpeedRacing.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\refint\E06.SpeedRacing.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\E06.SpeedRacing.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E06.SpeedRacing\obj\Debug\net6.0\ref\E06.SpeedRacing.dll

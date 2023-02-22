@@ -8,7 +8,8 @@ namespace GenericScale
 {
     internal class EqualityScale<T>
     {
-        private T left; private T right;
+        private T right;
+        private T left; 
 
         public EqualityScale(T left, T right)
         {
@@ -16,12 +17,11 @@ namespace GenericScale
             this.right = right;
         }
 
-       
+        public bool AreEqual()
+        {
+            return left.Equals(right);
+        }
 
-    }
-    public static bool AreEqual<T>(T left, T right)
-    {
-        return false;
     }
 }
 

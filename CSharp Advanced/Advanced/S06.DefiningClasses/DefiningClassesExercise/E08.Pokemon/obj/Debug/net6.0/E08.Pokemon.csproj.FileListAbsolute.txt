@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\bin\Debug\net6.0\E08.Pokemon.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\bin\Debug\net6.0\E08.Pokemon.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\bin\Debug\net6.0\E08.Pokemon.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\bin\Debug\net6.0\E08.Pokemon.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\bin\Debug\net6.0\E08.Pokemon.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\refint\E08.Pokemon.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\E08.Pokemon.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.Pokemon\obj\Debug\net6.0\ref\E08.Pokemon.dll

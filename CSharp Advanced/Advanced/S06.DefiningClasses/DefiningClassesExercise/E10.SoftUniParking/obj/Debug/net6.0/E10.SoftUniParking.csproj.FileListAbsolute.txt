@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\bin\Debug\net6.0\E10.SoftUniParking.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\bin\Debug\net6.0\E10.SoftUniParking.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\bin\Debug\net6.0\E10.SoftUniParking.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\bin\Debug\net6.0\E10.SoftUniParking.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\bin\Debug\net6.0\E10.SoftUniParking.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\refint\E10.SoftUniParking.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\E10.SoftUniParking.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E10.SoftUniParking\obj\Debug\net6.0\ref\E10.SoftUniParking.dll

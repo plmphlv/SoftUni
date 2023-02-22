@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plame\\source\\repos\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plame\\source\\repos\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plame\\source\\repos\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj",
         "projectName": "E03.GenericScale",
-        "projectPath": "C:\\Users\\plame\\source\\repos\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E03.GenericScale\\E03.GenericScale.csproj",
         "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plame\\source\\repos\\GenericsLab\\E03.GenericScale\\obj\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\Advanced\\S09.Generics\\GenericsLab\\E03.GenericScale\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",

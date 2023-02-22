@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\bin\Debug\net6.0\E08.CarSalesman.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\bin\Debug\net6.0\E08.CarSalesman.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\bin\Debug\net6.0\E08.CarSalesman.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\bin\Debug\net6.0\E08.CarSalesman.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\bin\Debug\net6.0\E08.CarSalesman.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\refint\E08.CarSalesman.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\E08.CarSalesman.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\Advanced\S06.DefiningClasses\DefiningClassesExercise\E08.CarSalesman\obj\Debug\net6.0\ref\E08.CarSalesman.dll
