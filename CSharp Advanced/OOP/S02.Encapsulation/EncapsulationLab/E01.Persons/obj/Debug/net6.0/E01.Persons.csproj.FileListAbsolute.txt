@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\bin\Debug\net6.0\PersonsInfo.exe
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\bin\Debug\net6.0\PersonsInfo.deps.json
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\bin\Debug\net6.0\PersonsInfo.dll
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\bin\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\PersonsInfo.dll
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\refint\PersonsInfo.dll
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\PersonsInfo.pdb
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\E01.Persons.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\EncapsulationLab\E01.Persons\obj\Debug\net6.0\ref\PersonsInfo.dll
