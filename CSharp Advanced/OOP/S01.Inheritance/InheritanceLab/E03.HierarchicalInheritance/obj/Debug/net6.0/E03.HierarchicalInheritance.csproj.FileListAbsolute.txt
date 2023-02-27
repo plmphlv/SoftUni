@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\bin\Debug\net6.0\E03.HierarchicalInheritance.exe
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\bin\Debug\net6.0\E03.HierarchicalInheritance.deps.json
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\bin\Debug\net6.0\E03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\bin\Debug\net6.0\E03.HierarchicalInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\bin\Debug\net6.0\E03.HierarchicalInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\refint\E03.HierarchicalInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\E03.HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E03.HierarchicalInheritance\obj\Debug\net6.0\ref\E03.HierarchicalInheritance.dll

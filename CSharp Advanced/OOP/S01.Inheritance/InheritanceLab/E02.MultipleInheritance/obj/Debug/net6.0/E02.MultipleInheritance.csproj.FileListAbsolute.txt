@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\bin\Debug\net6.0\E02.MultipleInheritance.exe
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\bin\Debug\net6.0\E02.MultipleInheritance.deps.json
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\bin\Debug\net6.0\E02.MultipleInheritance.runtimeconfig.json
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\bin\Debug\net6.0\E02.MultipleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\bin\Debug\net6.0\E02.MultipleInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\refint\E02.MultipleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\E02.MultipleInheritance.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E02.MultipleInheritance\obj\Debug\net6.0\ref\E02.MultipleInheritance.dll

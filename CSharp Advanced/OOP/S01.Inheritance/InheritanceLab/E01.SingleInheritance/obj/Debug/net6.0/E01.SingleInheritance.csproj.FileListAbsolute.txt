@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\bin\Debug\net6.0\E01.SingleInheritance.exe
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\bin\Debug\net6.0\E01.SingleInheritance.deps.json
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\bin\Debug\net6.0\E01.SingleInheritance.runtimeconfig.json
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\bin\Debug\net6.0\E01.SingleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\bin\Debug\net6.0\E01.SingleInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\refint\E01.SingleInheritance.dll
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.pdb
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\E01.SingleInheritance.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\InheritanceLab\E01.SingleInheritance\obj\Debug\net6.0\ref\E01.SingleInheritance.dll
