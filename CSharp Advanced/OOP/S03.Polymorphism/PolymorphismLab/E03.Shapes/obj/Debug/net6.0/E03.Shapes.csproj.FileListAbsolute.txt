@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\bin\Debug\net6.0\E03.Shapes.exe
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\bin\Debug\net6.0\E03.Shapes.deps.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\bin\Debug\net6.0\E03.Shapes.runtimeconfig.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\bin\Debug\net6.0\E03.Shapes.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\bin\Debug\net6.0\E03.Shapes.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\refint\E03.Shapes.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\E03.Shapes.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E03.Shapes\obj\Debug\net6.0\ref\E03.Shapes.dll

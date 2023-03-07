@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\bin\Debug\net6.0\E01.MathOperation.exe
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\bin\Debug\net6.0\E01.MathOperation.deps.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\bin\Debug\net6.0\E01.MathOperation.runtimeconfig.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\bin\Debug\net6.0\E01.MathOperation.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\bin\Debug\net6.0\E01.MathOperation.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\refint\E01.MathOperation.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\E01.MathOperation.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E01.MathOperation\obj\Debug\net6.0\ref\E01.MathOperation.dll

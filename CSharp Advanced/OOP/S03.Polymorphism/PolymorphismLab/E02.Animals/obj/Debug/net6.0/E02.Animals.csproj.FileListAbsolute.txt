@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\bin\Debug\net6.0\E02.Animals.exe
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\bin\Debug\net6.0\E02.Animals.deps.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\bin\Debug\net6.0\E02.Animals.runtimeconfig.json
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\bin\Debug\net6.0\E02.Animals.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\bin\Debug\net6.0\E02.Animals.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\refint\E02.Animals.dll
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.pdb
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\E02.Animals.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\PolymorphismLab\E02.Animals\obj\Debug\net6.0\ref\E02.Animals.dll
