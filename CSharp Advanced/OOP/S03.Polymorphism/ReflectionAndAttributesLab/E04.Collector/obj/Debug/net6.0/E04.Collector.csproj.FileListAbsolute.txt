@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\bin\Debug\net6.0\E04.Collector.exe
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\bin\Debug\net6.0\E04.Collector.deps.json
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\bin\Debug\net6.0\E04.Collector.runtimeconfig.json
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\bin\Debug\net6.0\E04.Collector.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\bin\Debug\net6.0\E04.Collector.pdb
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\refint\E04.Collector.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.pdb
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\E04.Collector.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E04.Collector\obj\Debug\net6.0\ref\E04.Collector.dll

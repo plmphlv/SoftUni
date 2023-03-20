@@ -1,0 +1,15 @@
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\bin\Debug\net6.0\E03.MissionPrivateImpossible.exe
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\bin\Debug\net6.0\E03.MissionPrivateImpossible.deps.json
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\bin\Debug\net6.0\E03.MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\bin\Debug\net6.0\E03.MissionPrivateImpossible.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\bin\Debug\net6.0\E03.MissionPrivateImpossible.pdb
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\refint\E03.MissionPrivateImpossible.dll
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.pdb
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\E03.MissionPrivateImpossible.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ReflectionAndAttributesLab\E03.MissionPrivateImpossible\obj\Debug\net6.0\ref\E03.MissionPrivateImpossible.dll
