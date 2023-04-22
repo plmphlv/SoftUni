@@ -1,0 +1,30 @@
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.exe
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.dll
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.dll
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+C:\Users\plame\Desktop\InheritanceExercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\bin\Debug\net6.0\Zoo.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Zoo\obj\Debug\net6.0\ref\Zoo.dll

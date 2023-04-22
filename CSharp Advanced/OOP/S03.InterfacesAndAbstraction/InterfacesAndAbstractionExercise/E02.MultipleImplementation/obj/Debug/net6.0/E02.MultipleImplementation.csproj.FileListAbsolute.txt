@@ -1,0 +1,30 @@
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.exe
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.deps.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.runtimeconfig.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.AssemblyInfo.cs
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\refint\E02.MultipleImplementation.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.genruntimeconfig.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\ref\E02.MultipleImplementation.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\bin\Debug\net6.0\E02.MultipleImplementation.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\refint\E02.MultipleImplementation.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\E02.MultipleImplementation.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E02.MultipleImplementation\obj\Debug\net6.0\ref\E02.MultipleImplementation.dll

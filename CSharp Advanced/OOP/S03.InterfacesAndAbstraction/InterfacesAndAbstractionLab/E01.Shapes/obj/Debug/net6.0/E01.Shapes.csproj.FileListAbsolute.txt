@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\bin\Debug\net6.0\E01.Shapes.exe
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\bin\Debug\net6.0\E01.Shapes.deps.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\bin\Debug\net6.0\E01.Shapes.runtimeconfig.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\bin\Debug\net6.0\E01.Shapes.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\bin\Debug\net6.0\E01.Shapes.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.AssemblyInfo.cs
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\refint\E01.Shapes.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\E01.Shapes.genruntimeconfig.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionLab\E01.Shapes\obj\Debug\net6.0\ref\E01.Shapes.dll

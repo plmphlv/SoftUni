@@ -1,0 +1,30 @@
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.exe
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.deps.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.runtimeconfig.json
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.AssemblyInfo.cs
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\refint\E03.Telephony.dll
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.pdb
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.genruntimeconfig.cache
+C:\Users\plame\source\repos\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\ref\E03.Telephony.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\bin\Debug\net6.0\E03.Telephony.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\refint\E03.Telephony.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\E03.Telephony.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S03.InterfacesAndAbstraction\InterfacesAndAbstractionExercise\E03.Telephony\obj\Debug\net6.0\ref\E03.Telephony.dll

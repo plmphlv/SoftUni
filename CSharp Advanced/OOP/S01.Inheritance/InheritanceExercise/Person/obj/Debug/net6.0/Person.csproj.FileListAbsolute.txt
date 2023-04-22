@@ -1,0 +1,30 @@
+C:\Users\plame\Desktop\InheritanceExercise\Person\bin\Debug\net6.0\Person.exe
+C:\Users\plame\Desktop\InheritanceExercise\Person\bin\Debug\net6.0\Person.deps.json
+C:\Users\plame\Desktop\InheritanceExercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+C:\Users\plame\Desktop\InheritanceExercise\Person\bin\Debug\net6.0\Person.dll
+C:\Users\plame\Desktop\InheritanceExercise\Person\bin\Debug\net6.0\Person.pdb
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.dll
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\refint\Person.dll
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.pdb
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+C:\Users\plame\Desktop\InheritanceExercise\Person\obj\Debug\net6.0\ref\Person.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\bin\Debug\net6.0\Person.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\bin\Debug\net6.0\Person.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\bin\Debug\net6.0\Person.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\bin\Debug\net6.0\Person.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\refint\Person.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S01.Inheritance\InheritanceExercise\Person\obj\Debug\net6.0\ref\Person.dll

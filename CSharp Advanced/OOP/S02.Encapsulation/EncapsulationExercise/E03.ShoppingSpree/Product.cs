@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace E03.ShoppingSpree
+namespace ShoppingSpree
 {
-    internal class Product
+    public class Product
     {
         private string name;
         private decimal cost;
@@ -19,27 +15,32 @@ namespace E03.ShoppingSpree
 
         public string Name
         {
-            get
-            {
-                return name;
-            }
-
+            get => name;
             private set
             {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.NameExceptionMessage);
+                }
+
                 name = value;
             }
         }
+
         public decimal Cost
         {
-            get
-            {
-                return cost;
-            }
-
+            get => cost;
             private set
             {
+                if (value < 0)
+                {
+                    throw new ArgumentException(ExceptionMessages.MoneyExeptionMessage);
+                }
+
                 cost = value;
             }
         }
+
+        public override string ToString() => Name;
     }
 }

@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\bin\Debug\net6.0\E04.PizzaCalories.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\bin\Debug\net6.0\E04.PizzaCalories.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\bin\Debug\net6.0\E04.PizzaCalories.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\bin\Debug\net6.0\E04.PizzaCalories.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\bin\Debug\net6.0\E04.PizzaCalories.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\refint\E04.PizzaCalories.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\E04.PizzaCalories.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E04.PizzaCalories\obj\Debug\net6.0\ref\E04.PizzaCalories.dll

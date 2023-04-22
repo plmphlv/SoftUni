@@ -13,3 +13,18 @@ C:\Users\Plamen\source\repos\EncapsulationExercise\E01.ClassBoxData\obj\Debug\ne
 C:\Users\Plamen\source\repos\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.pdb
 C:\Users\Plamen\source\repos\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.genruntimeconfig.cache
 C:\Users\Plamen\source\repos\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\ref\E01.ClassBoxData.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\bin\Debug\net6.0\E01.ClassBoxData.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\bin\Debug\net6.0\E01.ClassBoxData.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\bin\Debug\net6.0\E01.ClassBoxData.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\bin\Debug\net6.0\E01.ClassBoxData.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\bin\Debug\net6.0\E01.ClassBoxData.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\refint\E01.ClassBoxData.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\E01.ClassBoxData.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E01.ClassBoxData\obj\Debug\net6.0\ref\E01.ClassBoxData.dll

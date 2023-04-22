@@ -25,7 +25,7 @@ namespace AnimalFarm.Models
 
             private set
             {
-                if (string.IsNullOrWhiteSpace(value) && string.IsNullOrEmpty(value))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Name cannot be empty.");
                 }
@@ -45,7 +45,7 @@ namespace AnimalFarm.Models
 
             private set
             {
-                if (!(value >= 0 && value <= 15))
+                if (value < MinAge || value > MaxAge)
                 {
                     throw new ArgumentException("Age should be between 0 and 15.");
                 }
@@ -57,13 +57,10 @@ namespace AnimalFarm.Models
             }
         }
 
-        public double ProductPerDay
-        {
-            get
-            {
-                return this.CalculateProductPerDay();
-            }
-        }
+        public double ProductPerDay => CalculateProductPerDay();
+
+        public override string ToString()
+        => $"Chicken {Name} (age {Age}) can produce {ProductPerDay} eggs per day.";
 
         private double CalculateProductPerDay()
         {

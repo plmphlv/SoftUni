@@ -1,99 +1,66 @@
 ﻿using System;
 
-namespace E01.ClassBoxData
+namespace ClassBoxData
 {
-    internal class Box
+    public class Box
     {
-        private double lenght;
+        private const string PropertyValueExceptionMessage = "{0} cannot be zero or negative.";
+
+        private double length;
         private double width;
         private double height;
 
-        private const string errorMessage = "{0} cannot be zero or negative.";
-
-        public Box(double lenght, double width, double height)
+        public Box(double length, double width, double height)
         {
-            this.Lenght = lenght;
-            this.Width = width;
-            this.Height = height;
+            Length = length;
+            Width = width;
+            Height = height;
         }
 
-        public double Lenght
+        public double Length
         {
-            get
-            {
-                return lenght;
-            }
-
-            private set
+            get => length;
+            set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(String.Format(errorMessage, nameof(Lenght)));
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Length)));
                 }
-                else
-                {
-                    lenght = value;
-                }
+
+                length = value;
             }
         }
-
         public double Width
         {
-            get
-            {
-                return width;
-            }
-
-            private set
+            get => width;
+            set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(String.Format(errorMessage, nameof(Width)));
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Width)));
                 }
-                else
-                {
-                    width = value;
-                }
+
+                width = value;
             }
         }
-
         public double Height
         {
-            get
-            {
-                return height;
-            }
-
-            private set
+            get => height;
+            set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(String.Format(errorMessage, nameof(Height)));
+                    throw new ArgumentException(string.Format(PropertyValueExceptionMessage, nameof(Height)));
                 }
-                else
-                {
-                    height = value;
-                }
+
+                height = value;
             }
         }
 
-        public string SurfaceArea()
-        {
-            double surfaceArea = (2 * lenght * width) + (2 * lenght * height) + (2 * width * height);
+        public int Age { get; set; }
 
-            return $"Surface Area - {surfaceArea:f2}";
-        }
-        public string LateralSurfaceArea()
-        {
-            double lateralSurfaceArea = 2 * lenght * height + 2 * width * height;
-
-            return $"LateralSurfaceArea - {lateralSurfaceArea:f2}";
-        }
-        public string Volume()
-        {
-            double volume = lenght * width * height;
-
-            return $"Volume - {volume:f2}";
-        }
+        public double SurfaceArea() => 2 * Length * Width + LateralSurfaceArea();
+        public double LateralSurfaceArea() => 2 * Length * Height + 2 * Width * Height;
+        public double Volume() => Length * Width * Height;
     }
 }

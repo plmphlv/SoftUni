@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\bin\Debug\net6.0\E03.ShoppingSpree.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\bin\Debug\net6.0\E03.ShoppingSpree.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\bin\Debug\net6.0\E03.ShoppingSpree.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\bin\Debug\net6.0\E03.ShoppingSpree.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\bin\Debug\net6.0\E03.ShoppingSpree.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\refint\E03.ShoppingSpree.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\E03.ShoppingSpree.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E03.ShoppingSpree\obj\Debug\net6.0\ref\E03.ShoppingSpree.dll

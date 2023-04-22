@@ -13,3 +13,18 @@ C:\Users\Plamen\source\repos\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6
 C:\Users\Plamen\source\repos\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.pdb
 C:\Users\Plamen\source\repos\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.genruntimeconfig.cache
 C:\Users\Plamen\source\repos\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\ref\E02.AnimalFarm.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\bin\Debug\net6.0\E02.AnimalFarm.exe
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\bin\Debug\net6.0\E02.AnimalFarm.deps.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\bin\Debug\net6.0\E02.AnimalFarm.runtimeconfig.json
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\bin\Debug\net6.0\E02.AnimalFarm.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\bin\Debug\net6.0\E02.AnimalFarm.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.AssemblyInfo.cs
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\refint\E02.AnimalFarm.dll
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.pdb
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\E02.AnimalFarm.genruntimeconfig.cache
+D:\GitHub\SoftUni-Programing-With-CSharp\CSharp Advanced\OOP\S02.Encapsulation\EncapsulationExercise\E02.AnimalFarm\obj\Debug\net6.0\ref\E02.AnimalFarm.dll

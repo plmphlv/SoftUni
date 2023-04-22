@@ -1,0 +1,15 @@
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.exe
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.deps.json
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.runtimeconfig.json
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\bin\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.AssemblyReference.cache
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfoInputs.cache
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.AssemblyInfo.cs
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.csproj.CoreCompileInputs.cache
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.dll
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\refint\P01.Stream_Progress.dll
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.pdb
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\P01.Stream_Progress.genruntimeconfig.cache
+C:\Users\plame\Desktop\SOLIDLab\P01.Stream_Progress\obj\Debug\net6.0\ref\P01.Stream_Progress.dll
