@@ -1,0 +1,17 @@
+.book {
+  width: 400px;
+  background-color: #dddddd;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.book p {
+  font-size: 18px;
+}
+
+.book h1 {
+  text-align: center;
+}
