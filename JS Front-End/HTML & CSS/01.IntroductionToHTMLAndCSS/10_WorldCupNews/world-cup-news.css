@@ -1,7 +1,7 @@
-.wrapper {
+main#wrapper {
   width: 700px;
   height: 730px;
-  background-color: #a6e1ec;
+  background: rgb(166, 225, 236);
   border-style: solid;
   border-width: 1px;
   border-color: #000000;
@@ -25,4 +25,7 @@
   width: 200px;
   margin-right: 10px;
   vertical-align: middle;
+}
+.text {
+  color: rgb(63, 81, 181);
 }

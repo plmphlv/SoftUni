@@ -1,7 +1,7 @@
 article {
   width: 500px;
   height: 200px;
-  background-color: lightslategray;
+  background-color: lightgray;
   padding: 10px;
   overflow: auto;
 }
@@ -14,5 +14,5 @@ h3 {
   text-align: center;
 }
 p {
-  font-size: 30px;
+  text-indent: 30px;
 }

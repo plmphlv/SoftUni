@@ -1,3 +1,6 @@
+nav {
+  display: inline-block;
+}
 ul {
   list-style: none;
 }
@@ -5,5 +8,8 @@ li {
   display: inline-block;
 }
 article {
+  font-family: Helvetica, sans-serif;
+}
+html {
   font-family: Helvetica, sans-serif;
 }

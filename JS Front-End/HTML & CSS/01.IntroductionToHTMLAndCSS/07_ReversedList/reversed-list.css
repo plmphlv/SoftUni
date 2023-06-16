@@ -7,3 +7,7 @@
 #wrapper li {
   color: #92191a;
 }
+
+main#wrapper {
+  color: rgb(149, 25, 26);
+}

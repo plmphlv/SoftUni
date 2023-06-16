@@ -1,10 +1,17 @@
-p,
-li {
-  font: 16px/1.5 Raleway, sans-serif;
+html {
+  font-family: Raleway, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
 h1,
 h2 {
   font-family: Great Vibes, cursive;
   line-height: 1.2;
   font-weight: bold;
+}
+h1 {
+  font-size: 26px;
+}
+section {
+  margin: 40px;
 }

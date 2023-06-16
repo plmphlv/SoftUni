@@ -1,23 +1,18 @@
-/* TODO: style the html */
-@import url(https://use.fontawesome.com/releases/v5.6.3/css/all.css);
-
+@import "https://use.fontawesome.com/releases/v5.10.2/css/all.css";
 body {
-  font: 18px Arial serif;
+  font-family: Arial, serif;
   line-height: 3;
+  font-size: 18px;
 }
 a {
   text-decoration: none;
   color: #fff;
   border-radius: 5.4px;
-  padding-top: 12.6px;
-  padding-bottom: 12.6px;
-  padding-left: 27px;
-  padding-right: 27px;
+  padding: 12.6px 27px;
 }
 a:hover {
   color: #eee;
 }
-
 i {
   padding-right: 5.4px;
 }
