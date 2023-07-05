@@ -7,7 +7,7 @@ function solve(age) {
     console.log("teenager");
   } else if (age >= 20 && age <= 65) {
     console.log("adult");
-  } else if (age > 66) {
+  } else if (age >= 66) {
     console.log("elder");
   } else {
     console.log("out of bounds");

@@ -5,6 +5,6 @@ function rotate(myArr, rotations){
         const firstElement=myArr.shift();
         myArr.push(firstElement);
     }
-console.log(myArr);
+console.log(myArr.join(" "));
 }
 rotate([51, 47, 32, 61, 21], 2);
