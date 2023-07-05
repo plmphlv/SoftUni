@@ -3,7 +3,7 @@ function  signCheck(num1,num2,num3) {
     let negattive=0;
 
     for (const iterator of numArr) {
-        if(iterator<0){
+        if(iterator < 0){
             negattive++;
         }
     }
