@@ -1,4 +1,4 @@
-function name(arr) {
+function sing(arr) {
   class Song {
     constructor(type, name, time) {
       this.type = type;

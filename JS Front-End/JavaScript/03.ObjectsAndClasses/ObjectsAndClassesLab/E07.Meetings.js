@@ -6,7 +6,7 @@ function collectPhone(params) {
       console.log(`Conflict on ${weekday}!`);
     } else {
       acc[weekday] = name;
-      console.log(`Scheduled for ${weekday}!`);
+      console.log(`Scheduled for ${weekday}`);
     }
     return acc;
   }, {});

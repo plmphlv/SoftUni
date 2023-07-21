@@ -12,7 +12,7 @@ function catMaker(arr) {
 
   const cats = [];
   for (const iterator of arr) {
-    const cat = iterator.split();
+    const cat = iterator.split(" ");
     cats.push(new Cat(cat[0], cat[1]));
   }
 

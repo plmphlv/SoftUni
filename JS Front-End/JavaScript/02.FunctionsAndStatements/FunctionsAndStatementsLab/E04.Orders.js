@@ -1,4 +1,4 @@
-function name(product, quantity) {
+function order(product, quantity) {
    let price = 0;
 
     switch (product) {
@@ -21,4 +21,4 @@ function name(product, quantity) {
     console.log((price*quantity).toFixed(2));
 }
 
-name("coffee", 2);
+order("coffee", 2);
