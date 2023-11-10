@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj": {}
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj": {
+    "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj",
+        "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj",
         "projectName": "E02.Salary",
-        "projectPath": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj",
-        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E02.Salary\\obj\\",
+        "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E02.Salary\\E02.Salary.csproj",
+        "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E02.Salary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

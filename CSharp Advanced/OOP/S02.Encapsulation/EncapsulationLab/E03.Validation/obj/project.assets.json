@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Plamen\\.nuget\\packages\\": {}
+    "C:\\Users\\plame\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E03.Validation\\E03.Validation.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E03.Validation\\E03.Validation.csproj",
       "projectName": "E03.Validation",
-      "projectPath": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E03.Validation\\E03.Validation.csproj",
-      "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E03.Validation\\obj\\",
+      "projectPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E03.Validation\\E03.Validation.csproj",
+      "packagesPath": "C:\\Users\\plame\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E03.Validation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\plame\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

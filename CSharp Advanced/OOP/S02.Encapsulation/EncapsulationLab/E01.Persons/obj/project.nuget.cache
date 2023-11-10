@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pwTGcdNBGruaoL3YPa6Gfx+zj+Dbhw5Wpa36uJ4W6V+YllyqSa7WlYK14i8XVwd/4q53taeMOgzk7eqfXf1avA==",
+  "dgSpecHash": "aj5N0tx4WRDDYvfThmxtf2CGYCoAmhO7mE1hXZ4zci7k2rrvyFqFqNO/ySzsyb5aCctJLPfYmfhH8J2nSDVxuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamen\\source\\repos\\EncapsulationLab\\E01.Persons\\E01.Persons.csproj",
+  "projectFilePath": "D:\\GitHub\\SoftUni-Programing-With-CSharp\\CSharp Advanced\\OOP\\S02.Encapsulation\\EncapsulationLab\\E01.Persons\\E01.Persons.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
