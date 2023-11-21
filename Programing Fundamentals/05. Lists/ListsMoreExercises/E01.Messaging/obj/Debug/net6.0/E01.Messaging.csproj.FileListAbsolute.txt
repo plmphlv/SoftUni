@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\bin\Debug\net6.0\E01.Messaging.exe
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\bin\Debug\net6.0\E01.Messaging.deps.json
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\bin\Debug\net6.0\E01.Messaging.runtimeconfig.json
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\bin\Debug\net6.0\E01.Messaging.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\bin\Debug\net6.0\E01.Messaging.pdb
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.AssemblyInfo.cs
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\refint\E01.Messaging.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.pdb
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\E01.Messaging.genruntimeconfig.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E01.Messaging\obj\Debug\net6.0\ref\E01.Messaging.dll

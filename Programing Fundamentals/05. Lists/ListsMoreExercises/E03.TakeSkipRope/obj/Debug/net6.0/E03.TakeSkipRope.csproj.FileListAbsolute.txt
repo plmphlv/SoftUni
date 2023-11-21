@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\bin\Debug\net6.0\E03.TakeSkipRope.exe
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\bin\Debug\net6.0\E03.TakeSkipRope.deps.json
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\bin\Debug\net6.0\E03.TakeSkipRope.runtimeconfig.json
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\bin\Debug\net6.0\E03.TakeSkipRope.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\bin\Debug\net6.0\E03.TakeSkipRope.pdb
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.AssemblyInfo.cs
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\refint\E03.TakeSkipRope.dll
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.pdb
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\E03.TakeSkipRope.genruntimeconfig.cache
+C:\Users\plame\source\repos\ListsMoreExercises\E03.TakeSkipRope\obj\Debug\net6.0\ref\E03.TakeSkipRope.dll

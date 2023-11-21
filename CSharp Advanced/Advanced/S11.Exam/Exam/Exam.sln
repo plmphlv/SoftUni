@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E01.ApocalypsePreparation", "Apocalypse Preparation\E01.ApocalypsePreparation.csproj", "{9971D494-1B32-4E1B-8BAF-1CA2100B4A16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E02.BlindManSBuff", "E02.BlindManSBuff\E02.BlindManSBuff.csproj", "{EBF3638C-A62E-439E-A9A7-BD2D61E21014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9971D494-1B32-4E1B-8BAF-1CA2100B4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9971D494-1B32-4E1B-8BAF-1CA2100B4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9971D494-1B32-4E1B-8BAF-1CA2100B4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9971D494-1B32-4E1B-8BAF-1CA2100B4A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF3638C-A62E-439E-A9A7-BD2D61E21014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF3638C-A62E-439E-A9A7-BD2D61E21014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF3638C-A62E-439E-A9A7-BD2D61E21014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF3638C-A62E-439E-A9A7-BD2D61E21014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EBACF1-E01F-4FA1-905F-38CC85F9244B}
+	EndGlobalSection
+EndGlobal

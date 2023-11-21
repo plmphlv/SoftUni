@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\bin\Debug\net6.0\E02.RallyRacing.exe
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\bin\Debug\net6.0\E02.RallyRacing.deps.json
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\bin\Debug\net6.0\E02.RallyRacing.runtimeconfig.json
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\bin\Debug\net6.0\E02.RallyRacing.dll
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\bin\Debug\net6.0\E02.RallyRacing.pdb
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.AssemblyInfo.cs
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.dll
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\refint\E02.RallyRacing.dll
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.pdb
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\E02.RallyRacing.genruntimeconfig.cache
+C:\Users\plame\source\repos\ExamPreparation1\E02.RallyRacing\obj\Debug\net6.0\ref\E02.RallyRacing.dll
