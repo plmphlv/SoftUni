@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\bin\Debug\net6.0\E07.CustomComparator.exe
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\bin\Debug\net6.0\E07.CustomComparator.deps.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\bin\Debug\net6.0\E07.CustomComparator.runtimeconfig.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\bin\Debug\net6.0\E07.CustomComparator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\bin\Debug\net6.0\E07.CustomComparator.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.AssemblyInfo.cs
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\refint\E07.CustomComparator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\E07.CustomComparator.genruntimeconfig.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E07.CustomComparator\obj\Debug\net6.0\ref\E07.CustomComparator.dll

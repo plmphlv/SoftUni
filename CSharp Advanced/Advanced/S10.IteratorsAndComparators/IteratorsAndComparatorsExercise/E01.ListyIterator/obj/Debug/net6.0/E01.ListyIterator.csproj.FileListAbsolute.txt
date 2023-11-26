@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\bin\Debug\net6.0\E01.ListyIterator.exe
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\bin\Debug\net6.0\E01.ListyIterator.deps.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\bin\Debug\net6.0\E01.ListyIterator.runtimeconfig.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\bin\Debug\net6.0\E01.ListyIterator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\bin\Debug\net6.0\E01.ListyIterator.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.AssemblyInfo.cs
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\refint\E01.ListyIterator.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\E01.ListyIterator.genruntimeconfig.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E01.ListyIterator\obj\Debug\net6.0\ref\E01.ListyIterator.dll

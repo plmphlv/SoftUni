@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\bin\Debug\net6.0\E03.GenericSwapMethodStrings.exe
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\bin\Debug\net6.0\E03.GenericSwapMethodStrings.deps.json
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\bin\Debug\net6.0\E03.GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\bin\Debug\net6.0\E03.GenericSwapMethodStrings.dll
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\bin\Debug\net6.0\E03.GenericSwapMethodStrings.pdb
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.dll
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\refint\E03.GenericSwapMethodStrings.dll
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.pdb
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\E03.GenericSwapMethodStrings.genruntimeconfig.cache
+C:\Users\plame\source\repos\GenericsExercise\E03.GenericSwapMethodStrings\obj\Debug\net6.0\ref\E03.GenericSwapMethodStrings.dll

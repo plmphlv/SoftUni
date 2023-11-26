@@ -1,0 +1,15 @@
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\bin\Debug\net6.0\E08.CustomDoublyLinkedList.exe
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\bin\Debug\net6.0\E08.CustomDoublyLinkedList.deps.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\bin\Debug\net6.0\E08.CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\bin\Debug\net6.0\E08.CustomDoublyLinkedList.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\bin\Debug\net6.0\E08.CustomDoublyLinkedList.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\refint\E08.CustomDoublyLinkedList.dll
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.pdb
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\E08.CustomDoublyLinkedList.genruntimeconfig.cache
+C:\Users\plame\source\repos\IteratorsAndComparatorsExercise\E08.CustomDoublyLinkedList\obj\Debug\net6.0\ref\E08.CustomDoublyLinkedList.dll

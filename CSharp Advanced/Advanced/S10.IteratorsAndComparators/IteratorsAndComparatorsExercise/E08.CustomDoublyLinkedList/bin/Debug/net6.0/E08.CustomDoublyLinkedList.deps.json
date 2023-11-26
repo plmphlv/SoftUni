@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "E08.CustomDoublyLinkedList/1.0.0": {
+        "runtime": {
+          "E08.CustomDoublyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E08.CustomDoublyLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
